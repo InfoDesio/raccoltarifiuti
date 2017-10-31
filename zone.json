@@ -1,0 +1,1746 @@
+[
+ {
+   "VIA": "ADAMELLO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ADRIA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "AGNESI GAETANA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "AGRIGENTO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ALBERTO DA GIUSSANO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ALFIERI VITTORIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ALGERIA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ALIGHIERI DANTE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ALPI (delle)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ALPINI (largo degli)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "AMBROSOLI GIORGIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "AMENDOLA GIOVANNI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ARIENTI PIETRO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ARNO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "AROSIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ARTIGIANI (viale degli)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ASIAGO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ATLETI AZZURRI D’ITALIA (largo)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BADEN-POWELL ROBERT (largo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BAINSIZZA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BALLERIO GIOVANNI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BANDERA MONSIGNOR GIOVANNI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BANDIERA F.LLI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BARACCA FRANCESCO (da ang. Via Diaz ad ang. Via F.lli Cervi)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BARACCA FRANCESCO (da ang.Via Diaz ad ang. Via Cadorna)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BAREGGI DON GIACOMO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BASSANO DEL GRAPPA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BASSI UGO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BATTISTI CESARE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BEATO ANGELICO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BELINGERI GIOVANNI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BELLINI VINCENZO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BENEFATTORI E. C.A. (piazzale)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BENGASI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BERCHET GIOVANNI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BERGOGNONE AMBROGIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BERNINA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BERSAGLIERI (parco dei)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BEZZECCA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BINZAGO (per)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BIXIO NINO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BOCCACCIO GIOVANNI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BOITO ARRIGO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BOLAGNOS CASCINA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BOLIVIA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BOLTRAFFIO GIAN ANTONIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BONZI DON MAURO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BORGHETTO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BORGHETTO (vicolo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BOSCHI (dei)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BOSCHI VERSO CESANO (strada comunale dei)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BOSIO GIUSEPPINA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BOTTICELLI SANDRO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BOVISIO (per)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BOZZI ALDO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BRAMANTE DA URBINO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BRAMBILLA GIOVANNI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BRENNERO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BRESCIA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BRIANI LUIGI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BRIANZA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "BRODOLINI GIACOMO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "BUONARROTI MICHELANGELO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "BUOZZI BRUNO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CACCIATORI (dei)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CADORE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CADORNA RAFFAELE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CADUTI DI NASSIRYA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CAIROLI F.LLI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CALATAFIMI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CALVI PIER FORTUNATO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CALVINO ITALO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CAMNASIO MONSIGNOR GIUSEPPE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CAMPOBELLO DI LICATA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CANALETTO (G.A. CANAL DETTO IL)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CANOVA ANTONIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CANTORE ANTONIO GENERALE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CANTÙ CESARE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CAPUANA LUIGI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CARAVAGGIO (M. MERISI DETTO IL)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CARCANO FILIPPO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CARCASSOLA PIETRO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CARDUCCI GIOSUÈ",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CARENDON (piazza)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CARROCCIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CARSO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CASE NUOVE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CASPANI PADRE EGIDIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CASSINETTA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CASSINO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CASTELFIDARDO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CASTELLI MONSIGNOR LUIGI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CATANIA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CATTANEO CARLO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CATTANEO MONSIGNOR CELESTINO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CAVALIERI DI VITTORIO VENETO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CAVE (delle)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CAVOUR CAMILLO BENSO (piazza)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CECHOV ANTON",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CELLINI BENVENUTO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CERVI F.LLI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CERVINO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CESANO MADERNO (per)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CHERUBINI FRANCESCO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CHIESA DAMIANO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "COCCÈ DON RENATO (largo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "COLOMBO CRISTOFORO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "COMMERCIO (del)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "COMO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "COMPAGNI DINO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CONCILIAZIONE (della)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CONCILIAZIONE (piazza della)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "CONFALONIERI FEDERICO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "CROCE BENEDETTO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "CUSTOZA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "D’ACQUISTO SALVO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "D’ADDA CESARE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "D’ANNUNZIO GABRIELE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "DA VINCI LEONARDO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "DAL VERME JACOPO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "DALLA CHIESA CARLO ALBERTO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "DE AMICIS EDMONDO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "DE GASPERI ALCIDE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "DE LUCA ANTONIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "DE SANCTIS FRANCESCO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "DELEDDA GRAZIA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "DI VITTORIO GIUSEPPE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "DIAZ ARMANDO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "DIVINA MISERICORDIA (piazzale)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "DOBERDÒ",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "DOLCI PIETRO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "DOLOMITI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "DONATELLO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "DONIZETTI GAETANO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "DUE PALME",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "EDISON TOMMASO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "EINAUDI LUIGI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "EINSTEIN ALBERT",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ERBA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "EUROPA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "FERMI ENRICO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "FERRARI ENZO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "FERRAVILLA EDOARDO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "FILIPPI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "FILIPPO DA DESIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "FILZI FABIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "FIRENZE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "FIUME (da ang. Via Diaz ad ang. Via delle Vallette)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "FIUME (da ang. Via Diaz ad ang. Via Matteotti)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "FOGAZZARO ANTONIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "FORLANINI CARLO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "FORNO VECCHIO (vicolo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "FOSCOLO UGO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "FREZZINI PADRE GIORGIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GABELLINI ALBERTO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GALENO CLAUDIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GALILEI GALILEO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GALLI GUIDO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GALVANI LUIGI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GARIBALDI GIUSEPPE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GAVAZZI EGIDIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GENOVA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GENTILE GIOVANNI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "GHIACCIAIA (vicolo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GIOIA FLAVIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GIORDANO UMBERTO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GIOTTO (piazza)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GIOVANNI PAOLO II (piazza)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GIOVANNI XXIII PAPA (piazza)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GIUSSANI DON LUIGI (piazza)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GIUSTI GIUSEPPE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GNOCCHI DON CARLO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GOITO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "GOLDONI CARLO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "GORIZIA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GRADISCA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "GRAMSCI ANTONIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GRAN SASSO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "GRANDI ACHILLE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GRIGNA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GRUBICY VITTORE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "GUADO (del)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "GUARENTI DAVIDE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "HERMADA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ILDEFONSO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "INDUSTRIA (viale dell’)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ISONZO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ITALIA (corso) (da ang. Via Diaz ad ang. Piazza Conciliazione)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ITALIA (corso) (da ang. Via Diaz ad ang. Via Milano)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "KOLBE PADRE MASSIMILIANO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "KULISCIOFF ANNA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "LAGHETTO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "LAMARMORA ALFONSO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "LAMPUGNANI GIOVANNI MARIA (da ang. Piazza Cavour fino al sottopasso)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "LAMPUGNANI GIOVANNI MARIA (dal sottopasso ad ang. Via Bareggi)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "LAVORATORI AUTOBIANCHI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "LECCO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "LEONCAVALLO RUGGERO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "LEOPARDI GIACOMO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "LIBERAZIONE (piazza)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "LISSONI COMM. PIERINO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "LOMBARDIA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "LUCCHINI ACHILLE (largo)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "LUCINICO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MAESTRI DEL LAVORO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MAGENTA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MAJORANA ETTORE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MAMELI GOFFREDO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MANTEGAZZA PAOLO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MANTEGNA ANDREA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MANTOVA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MANZONI ALESSANDRO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MARCONI GUGLIELMO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MARIANI (dei)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MARSALA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MARTIRI DELLE FOIBE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MARTIRI DI CEFALONIA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MARTIRI DI FOSSOLI (piazza)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MARX KARL",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MARZABOTTO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MASCAGNI PIETRO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MATTEOTTI GIACOMO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MAZZINI GIUSEPPE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MAZZOLARI DON PRIMO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MEDA FILIPPO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MENTANA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MERCATO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MESSINA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MESTRE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MICHELINI MARIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MILANI DON LUIGI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MILANI MARIO (parco)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MILANO (da ang. Via Gabellini al confine di Nova Milanese)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MILANO (da ang. Via Gabellini al confine di Seregno)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MILITE IGNOTO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MINZONI DON GIOVANNI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MODIGLIANI AMEDEO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MOLINARA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MONSELICE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MONTALE EUGENIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MONTE BIANCO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MONTE CIMONE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MONTE GENEROSO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MONTE GRAPPA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MONTE PALANZONE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MONTE ROSA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MONTE SAN MICHELE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MONTELLO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MONTENERO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MONTESANTO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MONTEVERDI CLAUDIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "MONTI VINCENZO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "MONVISO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MULINELLO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MULINO ARESE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "MUTTI DON ANGELO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "NEGRI ADA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "NENNI PIETRO (piazza)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "NIZZA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "NOVARA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "NOVATI ENRICO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "NOVE NOVEMBRE 1989",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "NUOVA VALASSINA (strada) - SS 36",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "OBERDAN GUGLIELMO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "OLIMPIADI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "OLMETTO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ORTI (vicolo)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ORTIGARA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "OSLAVIA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PADOVA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PAGANINI NICOLÒ",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PALERMO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PALESTRO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PALLAVICINI GIORGIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PAOLO VI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PARCO (piazzale del)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PARINI GIUSEPPE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PARTIGIANI D’ITALIA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PASCOLI GIOVANNI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "PASTEUR LUIGI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PASTRENGO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PASUBIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "PELLICO SILVIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "PESCHIERA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PETRARCA FRANCESCO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PIAVE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "PIERMARINI GIUSEPPE FRANCESCO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PIETRO DA DESIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PIO XI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PIRANDELLO LUIGI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PIROTTA DON LUIGI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "PISACANE CARLO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PODGORA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "PONTIDA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PORTA CARLO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PORTICHETTO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "POZZO ANTICO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PRATI GIOVANNI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PRIMAVERA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "PRIMO MAGGIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "PRIMULE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "PUCCINI GIACOMO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "PULORA (dei)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "QUASIMODO SALVATORE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "QUATTRO NOVEMBRE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "RAGAZZI DEL ’99",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "RAMELLI SERGIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "RAPALLO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "RASTELLI (vicolo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "REDIPUGLIA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "RESEGONE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "RIGHINI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "RIMEMBRANZE (viale delle)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "RISORGIMENTO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ROGGIA TRAVERSI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ROMA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ROMAGNA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "RONCHETTI ANSELMO (vicolo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ROSE (delle)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ROSSA GUIDO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ROSSELLI F.LLI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ROSSINI GIOACCHINO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ROVAGNATI ERMINIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ROVANI GIUSEPPE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "ROVIGO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SABOTINO (viale) (da ang. Via Milano ad ang. Via Cattaneo)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SABOTINO (viale) (da ang. Via Milano ad ang. Via Garibaldi)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SAFFI AURELIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SALGARI EMILIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN BERNARDO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SAN CAMILLO (vicolo)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN CARLO (strada comunale)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN CRISTOFORO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN FRANCESCO (vicolo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SAN FRANCESCO D’ASSISI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN GENNARO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN GIOVANNI BOSCO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN GIUSEPPE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN LORENZO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAN MAMETE (vicolo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SAN MARTINO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SAN PIETRO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SAN VINCENZO DE’ PAOLI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SAN VITTORE PRIMO PAPA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SANT’ANNA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SANT’APOLLINARE IN CLASSE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SANTA CATERINA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SANTA GIANNA BERETTA MOLLA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SANTA LIBERATA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SANTA LUCIA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SANTA MARIA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SANTA MARIA (piazza)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SANTA PAOLA DI ROSA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SANTI SIRO E MATERNO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SARDEGNA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SAURO NAZARIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SCHIPA TITO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SCHUSTER CARDINAL ALFREDO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SCIASCIA LEONARDO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SCIESA AMATORE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SEDICI MARZO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SEGANTINI GIOVANNI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SEGRE EMILIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SEMPIONE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SERAO MATILDE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SEREGNO (per)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SERENELLA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SERVITI (dei)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SFORZA FRANCESCO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SICILIA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SILONE IGNAZIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SIRTORI GIUSEPPE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SOLARO FELICE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SOLFERINO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "SOLTINE (delle)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "SOVICANA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SPINELLI AMBROGIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "SPLUGA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "STADIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "STAMPA DI SONCINO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "STAZIONE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "STELVIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "STURZO DON LUIGI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "TAGLIABUE UMBERTO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TARGETTI RAIMONDO (piazza)",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "TARRA GIULIO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TAZZOLI ENRICO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TICINO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "TIGLI (dei)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "TINTORETTO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TITTONI TOMMASO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TOLSTOI LEONE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TONALE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "TORINO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TORRIANI NAPO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "TORRICELLI EVANGELISTA",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TOTI ENRICO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "TRAVERSI GIOVANNI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "TRE VENEZIE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "TRENTO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "TREVISO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "TREZZI POMPEO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "TRIESTE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "TRINCEA DELLE FRASCHE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "TRIPOLI",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "TURATI FILIPPO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "UDINE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "UNGARETTI GIUSEPPE",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "VAJ ROMEO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VALLETTE (delle)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "VARESE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "VENTI SETTEMBRE (da ang. Via Diaz ad ang. Via delle Vallette)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "VENTI SETTEMBRE (da ang. Via Diaz ad ang. Via Matteotti)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VENTICINQUE APRILE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VENTIQUATTRO MAGGIO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VERCELLI",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "VERCESI GALILEO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VERDI GIUSEPPE",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VERGA GIOVANNI",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "VERONA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "VERRI PIETRO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VICENZA",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "VICINALE PER MUGGIO’",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VICINALE PER VAREDO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "VICO GIOVAMBATTISTA",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VILLA CANONICO",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VILLANI FILIPPO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "VILLORESI DON ANTONIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "VISCONTI OTTONE",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "VITTORIO VENETO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "VIVALDI ANTONIO",
+   "ZONA": "C"
+ },
+ {
+   "VIA": "VOLONTARI DEL SANGUE (largo)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "VOLTA ALESSANDRO (da ang. Via Lombardia ad ang. Via Brennero)",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "VOLTA ALESSANDRO (da ang. Via Lombardia ad ang. Via Lampugnani)",
+   "ZONA": "B"
+ },
+ {
+   "VIA": "ZANDONAI RICCARDO",
+   "ZONA": "A"
+ },
+ {
+   "VIA": "ZANELLA GIACOMO",
+   "ZONA": "B"
+ }
+]
