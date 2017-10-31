@@ -1,1746 +1,1746 @@
 [
  {
-   "VIA": "ADAMELLO",
+   "NOME": "ADAMELLO",
    "ZONA": "B"
  },
  {
-   "VIA": "ADRIA",
+   "NOME": "ADRIA",
    "ZONA": "C"
  },
  {
-   "VIA": "AGNESI GAETANA",
+   "NOME": "AGNESI GAETANA",
    "ZONA": "C"
  },
  {
-   "VIA": "AGRIGENTO",
+   "NOME": "AGRIGENTO",
    "ZONA": "C"
  },
  {
-   "VIA": "ALBERTO DA GIUSSANO",
+   "NOME": "ALBERTO DA GIUSSANO",
    "ZONA": "A"
  },
  {
-   "VIA": "ALFIERI VITTORIO",
+   "NOME": "ALFIERI VITTORIO",
    "ZONA": "B"
  },
  {
-   "VIA": "ALGERIA",
+   "NOME": "ALGERIA",
    "ZONA": "C"
  },
  {
-   "VIA": "ALIGHIERI DANTE",
+   "NOME": "ALIGHIERI DANTE",
    "ZONA": "A"
  },
  {
-   "VIA": "ALPI (delle)",
+   "NOME": "ALPI (delle)",
    "ZONA": "C"
  },
  {
-   "VIA": "ALPINI (largo degli)",
+   "NOME": "ALPINI (largo degli)",
    "ZONA": "A"
  },
  {
-   "VIA": "AMBROSOLI GIORGIO",
+   "NOME": "AMBROSOLI GIORGIO",
    "ZONA": "B"
  },
  {
-   "VIA": "AMENDOLA GIOVANNI",
+   "NOME": "AMENDOLA GIOVANNI",
    "ZONA": "C"
  },
  {
-   "VIA": "ARIENTI PIETRO",
+   "NOME": "ARIENTI PIETRO",
    "ZONA": "A"
  },
  {
-   "VIA": "ARNO",
+   "NOME": "ARNO",
    "ZONA": "A"
  },
  {
-   "VIA": "AROSIO",
+   "NOME": "AROSIO",
    "ZONA": "A"
  },
  {
-   "VIA": "ARTIGIANI (viale degli)",
+   "NOME": "ARTIGIANI (viale degli)",
    "ZONA": "B"
  },
  {
-   "VIA": "ASIAGO",
+   "NOME": "ASIAGO",
    "ZONA": "C"
  },
  {
-   "VIA": "ATLETI AZZURRI D’ITALIA (largo)",
+   "NOME": "ATLETI AZZURRI D’ITALIA (largo)",
    "ZONA": "C"
  },
  {
-   "VIA": "BADEN-POWELL ROBERT (largo)",
+   "NOME": "BADEN-POWELL ROBERT (largo)",
    "ZONA": "B"
  },
  {
-   "VIA": "BAINSIZZA",
+   "NOME": "BAINSIZZA",
    "ZONA": "A"
  },
  {
-   "VIA": "BALLERIO GIOVANNI",
+   "NOME": "BALLERIO GIOVANNI",
    "ZONA": "A"
  },
  {
-   "VIA": "BANDERA MONSIGNOR GIOVANNI",
+   "NOME": "BANDERA MONSIGNOR GIOVANNI",
    "ZONA": "C"
  },
  {
-   "VIA": "BANDIERA F.LLI",
+   "NOME": "BANDIERA F.LLI",
    "ZONA": "A"
  },
  {
-   "VIA": "BARACCA FRANCESCO (da ang. Via Diaz ad ang. Via F.lli Cervi)",
+   "NOME": "BARACCA FRANCESCO (da ang. Via Diaz ad ang. Via F.lli Cervi)",
    "ZONA": "B"
  },
  {
-   "VIA": "BARACCA FRANCESCO (da ang.Via Diaz ad ang. Via Cadorna)",
+   "NOME": "BARACCA FRANCESCO (da ang.Via Diaz ad ang. Via Cadorna)",
    "ZONA": "A"
  },
  {
-   "VIA": "BAREGGI DON GIACOMO",
+   "NOME": "BAREGGI DON GIACOMO",
    "ZONA": "A"
  },
  {
-   "VIA": "BASSANO DEL GRAPPA",
+   "NOME": "BASSANO DEL GRAPPA",
    "ZONA": "C"
  },
  {
-   "VIA": "BASSI UGO",
+   "NOME": "BASSI UGO",
    "ZONA": "A"
  },
  {
-   "VIA": "BATTISTI CESARE",
+   "NOME": "BATTISTI CESARE",
    "ZONA": "A"
  },
  {
-   "VIA": "BEATO ANGELICO",
+   "NOME": "BEATO ANGELICO",
    "ZONA": "A"
  },
  {
-   "VIA": "BELINGERI GIOVANNI",
+   "NOME": "BELINGERI GIOVANNI",
    "ZONA": "B"
  },
  {
-   "VIA": "BELLINI VINCENZO",
+   "NOME": "BELLINI VINCENZO",
    "ZONA": "A"
  },
  {
-   "VIA": "BENEFATTORI E. C.A. (piazzale)",
+   "NOME": "BENEFATTORI E. C.A. (piazzale)",
    "ZONA": "C"
  },
  {
-   "VIA": "BENGASI",
+   "NOME": "BENGASI",
    "ZONA": "B"
  },
  {
-   "VIA": "BERCHET GIOVANNI",
+   "NOME": "BERCHET GIOVANNI",
    "ZONA": "B"
  },
  {
-   "VIA": "BERGOGNONE AMBROGIO",
+   "NOME": "BERGOGNONE AMBROGIO",
    "ZONA": "A"
  },
  {
-   "VIA": "BERNINA",
+   "NOME": "BERNINA",
    "ZONA": "A"
  },
  {
-   "VIA": "BERSAGLIERI (parco dei)",
+   "NOME": "BERSAGLIERI (parco dei)",
    "ZONA": "B"
  },
  {
-   "VIA": "BEZZECCA",
+   "NOME": "BEZZECCA",
    "ZONA": "C"
  },
  {
-   "VIA": "BINZAGO (per)",
+   "NOME": "BINZAGO (per)",
    "ZONA": "C"
  },
  {
-   "VIA": "BIXIO NINO",
+   "NOME": "BIXIO NINO",
    "ZONA": "A"
  },
  {
-   "VIA": "BOCCACCIO GIOVANNI",
+   "NOME": "BOCCACCIO GIOVANNI",
    "ZONA": "B"
  },
  {
-   "VIA": "BOITO ARRIGO",
+   "NOME": "BOITO ARRIGO",
    "ZONA": "A"
  },
  {
-   "VIA": "BOLAGNOS CASCINA",
+   "NOME": "BOLAGNOS CASCINA",
    "ZONA": "C"
  },
  {
-   "VIA": "BOLIVIA",
+   "NOME": "BOLIVIA",
    "ZONA": "A"
  },
  {
-   "VIA": "BOLTRAFFIO GIAN ANTONIO",
+   "NOME": "BOLTRAFFIO GIAN ANTONIO",
    "ZONA": "A"
  },
  {
-   "VIA": "BONZI DON MAURO",
+   "NOME": "BONZI DON MAURO",
    "ZONA": "A"
  },
  {
-   "VIA": "BORGHETTO",
+   "NOME": "BORGHETTO",
    "ZONA": "B"
  },
  {
-   "VIA": "BORGHETTO (vicolo)",
+   "NOME": "BORGHETTO (vicolo)",
    "ZONA": "B"
  },
  {
-   "VIA": "BOSCHI (dei)",
+   "NOME": "BOSCHI (dei)",
    "ZONA": "C"
  },
  {
-   "VIA": "BOSCHI VERSO CESANO (strada comunale dei)",
+   "NOME": "BOSCHI VERSO CESANO (strada comunale dei)",
    "ZONA": "A"
  },
  {
-   "VIA": "BOSIO GIUSEPPINA",
+   "NOME": "BOSIO GIUSEPPINA",
    "ZONA": "A"
  },
  {
-   "VIA": "BOTTICELLI SANDRO",
+   "NOME": "BOTTICELLI SANDRO",
    "ZONA": "A"
  },
  {
-   "VIA": "BOVISIO (per)",
+   "NOME": "BOVISIO (per)",
    "ZONA": "C"
  },
  {
-   "VIA": "BOZZI ALDO",
+   "NOME": "BOZZI ALDO",
    "ZONA": "C"
  },
  {
-   "VIA": "BRAMANTE DA URBINO",
+   "NOME": "BRAMANTE DA URBINO",
    "ZONA": "A"
  },
  {
-   "VIA": "BRAMBILLA GIOVANNI",
+   "NOME": "BRAMBILLA GIOVANNI",
    "ZONA": "B"
  },
  {
-   "VIA": "BRENNERO",
+   "NOME": "BRENNERO",
    "ZONA": "A"
  },
  {
-   "VIA": "BRESCIA",
+   "NOME": "BRESCIA",
    "ZONA": "A"
  },
  {
-   "VIA": "BRIANI LUIGI",
+   "NOME": "BRIANI LUIGI",
    "ZONA": "A"
  },
  {
-   "VIA": "BRIANZA",
+   "NOME": "BRIANZA",
    "ZONA": "A"
  },
  {
-   "VIA": "BRODOLINI GIACOMO",
+   "NOME": "BRODOLINI GIACOMO",
    "ZONA": "C"
  },
  {
-   "VIA": "BUONARROTI MICHELANGELO",
+   "NOME": "BUONARROTI MICHELANGELO",
    "ZONA": "B"
  },
  {
-   "VIA": "BUOZZI BRUNO",
+   "NOME": "BUOZZI BRUNO",
    "ZONA": "B"
  },
  {
-   "VIA": "CACCIATORI (dei)",
+   "NOME": "CACCIATORI (dei)",
    "ZONA": "C"
  },
  {
-   "VIA": "CADORE",
+   "NOME": "CADORE",
    "ZONA": "B"
  },
  {
-   "VIA": "CADORNA RAFFAELE",
+   "NOME": "CADORNA RAFFAELE",
    "ZONA": "A"
  },
  {
-   "VIA": "CADUTI DI NASSIRYA",
+   "NOME": "CADUTI DI NASSIRYA",
    "ZONA": "B"
  },
  {
-   "VIA": "CAIROLI F.LLI",
+   "NOME": "CAIROLI F.LLI",
    "ZONA": "A"
  },
  {
-   "VIA": "CALATAFIMI",
+   "NOME": "CALATAFIMI",
    "ZONA": "C"
  },
  {
-   "VIA": "CALVI PIER FORTUNATO",
+   "NOME": "CALVI PIER FORTUNATO",
    "ZONA": "A"
  },
  {
-   "VIA": "CALVINO ITALO",
+   "NOME": "CALVINO ITALO",
    "ZONA": "C"
  },
  {
-   "VIA": "CAMNASIO MONSIGNOR GIUSEPPE",
+   "NOME": "CAMNASIO MONSIGNOR GIUSEPPE",
    "ZONA": "B"
  },
  {
-   "VIA": "CAMPOBELLO DI LICATA",
+   "NOME": "CAMPOBELLO DI LICATA",
    "ZONA": "C"
  },
  {
-   "VIA": "CANALETTO (G.A. CANAL DETTO IL)",
+   "NOME": "CANALETTO (G.A. CANAL DETTO IL)",
    "ZONA": "A"
  },
  {
-   "VIA": "CANOVA ANTONIO",
+   "NOME": "CANOVA ANTONIO",
    "ZONA": "B"
  },
  {
-   "VIA": "CANTORE ANTONIO GENERALE",
+   "NOME": "CANTORE ANTONIO GENERALE",
    "ZONA": "A"
  },
  {
-   "VIA": "CANTÙ CESARE",
+   "NOME": "CANTÙ CESARE",
    "ZONA": "B"
  },
  {
-   "VIA": "CAPUANA LUIGI",
+   "NOME": "CAPUANA LUIGI",
    "ZONA": "A"
  },
  {
-   "VIA": "CARAVAGGIO (M. MERISI DETTO IL)",
+   "NOME": "CARAVAGGIO (M. MERISI DETTO IL)",
    "ZONA": "B"
  },
  {
-   "VIA": "CARCANO FILIPPO",
+   "NOME": "CARCANO FILIPPO",
    "ZONA": "B"
  },
  {
-   "VIA": "CARCASSOLA PIETRO",
+   "NOME": "CARCASSOLA PIETRO",
    "ZONA": "B"
  },
  {
-   "VIA": "CARDUCCI GIOSUÈ",
+   "NOME": "CARDUCCI GIOSUÈ",
    "ZONA": "A"
  },
  {
-   "VIA": "CARENDON (piazza)",
+   "NOME": "CARENDON (piazza)",
    "ZONA": "A"
  },
  {
-   "VIA": "CARROCCIO",
+   "NOME": "CARROCCIO",
    "ZONA": "C"
  },
  {
-   "VIA": "CARSO",
+   "NOME": "CARSO",
    "ZONA": "C"
  },
  {
-   "VIA": "CASE NUOVE",
+   "NOME": "CASE NUOVE",
    "ZONA": "B"
  },
  {
-   "VIA": "CASPANI PADRE EGIDIO",
+   "NOME": "CASPANI PADRE EGIDIO",
    "ZONA": "B"
  },
  {
-   "VIA": "CASSINETTA",
+   "NOME": "CASSINETTA",
    "ZONA": "A"
  },
  {
-   "VIA": "CASSINO",
+   "NOME": "CASSINO",
    "ZONA": "B"
  },
  {
-   "VIA": "CASTELFIDARDO",
+   "NOME": "CASTELFIDARDO",
    "ZONA": "C"
  },
  {
-   "VIA": "CASTELLI MONSIGNOR LUIGI",
+   "NOME": "CASTELLI MONSIGNOR LUIGI",
    "ZONA": "C"
  },
  {
-   "VIA": "CATANIA",
+   "NOME": "CATANIA",
    "ZONA": "C"
  },
  {
-   "VIA": "CATTANEO CARLO",
+   "NOME": "CATTANEO CARLO",
    "ZONA": "C"
  },
  {
-   "VIA": "CATTANEO MONSIGNOR CELESTINO",
+   "NOME": "CATTANEO MONSIGNOR CELESTINO",
    "ZONA": "B"
  },
  {
-   "VIA": "CAVALIERI DI VITTORIO VENETO",
+   "NOME": "CAVALIERI DI VITTORIO VENETO",
    "ZONA": "B"
  },
  {
-   "VIA": "CAVE (delle)",
+   "NOME": "CAVE (delle)",
    "ZONA": "A"
  },
  {
-   "VIA": "CAVOUR CAMILLO BENSO (piazza)",
+   "NOME": "CAVOUR CAMILLO BENSO (piazza)",
    "ZONA": "B"
  },
  {
-   "VIA": "CECHOV ANTON",
+   "NOME": "CECHOV ANTON",
    "ZONA": "A"
  },
  {
-   "VIA": "CELLINI BENVENUTO",
+   "NOME": "CELLINI BENVENUTO",
    "ZONA": "A"
  },
  {
-   "VIA": "CERVI F.LLI",
+   "NOME": "CERVI F.LLI",
    "ZONA": "B"
  },
  {
-   "VIA": "CERVINO",
+   "NOME": "CERVINO",
    "ZONA": "C"
  },
  {
-   "VIA": "CESANO MADERNO (per)",
+   "NOME": "CESANO MADERNO (per)",
    "ZONA": "C"
  },
  {
-   "VIA": "CHERUBINI FRANCESCO",
+   "NOME": "CHERUBINI FRANCESCO",
    "ZONA": "A"
  },
  {
-   "VIA": "CHIESA DAMIANO",
+   "NOME": "CHIESA DAMIANO",
    "ZONA": "B"
  },
  {
-   "VIA": "COCCÈ DON RENATO (largo)",
+   "NOME": "COCCÈ DON RENATO (largo)",
    "ZONA": "B"
  },
  {
-   "VIA": "COLOMBO CRISTOFORO",
+   "NOME": "COLOMBO CRISTOFORO",
    "ZONA": "B"
  },
  {
-   "VIA": "COMMERCIO (del)",
+   "NOME": "COMMERCIO (del)",
    "ZONA": "B"
  },
  {
-   "VIA": "COMO",
+   "NOME": "COMO",
    "ZONA": "A"
  },
  {
-   "VIA": "COMPAGNI DINO",
+   "NOME": "COMPAGNI DINO",
    "ZONA": "B"
  },
  {
-   "VIA": "CONCILIAZIONE (della)",
+   "NOME": "CONCILIAZIONE (della)",
    "ZONA": "B"
  },
  {
-   "VIA": "CONCILIAZIONE (piazza della)",
+   "NOME": "CONCILIAZIONE (piazza della)",
    "ZONA": "B"
  },
  {
-   "VIA": "CONFALONIERI FEDERICO",
+   "NOME": "CONFALONIERI FEDERICO",
    "ZONA": "A"
  },
  {
-   "VIA": "CROCE BENEDETTO",
+   "NOME": "CROCE BENEDETTO",
    "ZONA": "C"
  },
  {
-   "VIA": "CUSTOZA",
+   "NOME": "CUSTOZA",
    "ZONA": "C"
  },
  {
-   "VIA": "D’ACQUISTO SALVO",
+   "NOME": "D’ACQUISTO SALVO",
    "ZONA": "C"
  },
  {
-   "VIA": "D’ADDA CESARE",
+   "NOME": "D’ADDA CESARE",
    "ZONA": "B"
  },
  {
-   "VIA": "D’ANNUNZIO GABRIELE",
+   "NOME": "D’ANNUNZIO GABRIELE",
    "ZONA": "B"
  },
  {
-   "VIA": "DA VINCI LEONARDO",
+   "NOME": "DA VINCI LEONARDO",
    "ZONA": "B"
  },
  {
-   "VIA": "DAL VERME JACOPO",
+   "NOME": "DAL VERME JACOPO",
    "ZONA": "B"
  },
  {
-   "VIA": "DALLA CHIESA CARLO ALBERTO",
+   "NOME": "DALLA CHIESA CARLO ALBERTO",
    "ZONA": "A"
  },
  {
-   "VIA": "DE AMICIS EDMONDO",
+   "NOME": "DE AMICIS EDMONDO",
    "ZONA": "A"
  },
  {
-   "VIA": "DE GASPERI ALCIDE",
+   "NOME": "DE GASPERI ALCIDE",
    "ZONA": "A"
  },
  {
-   "VIA": "DE LUCA ANTONIO",
+   "NOME": "DE LUCA ANTONIO",
    "ZONA": "A"
  },
  {
-   "VIA": "DE SANCTIS FRANCESCO",
+   "NOME": "DE SANCTIS FRANCESCO",
    "ZONA": "A"
  },
  {
-   "VIA": "DELEDDA GRAZIA",
+   "NOME": "DELEDDA GRAZIA",
    "ZONA": "C"
  },
  {
-   "VIA": "DI VITTORIO GIUSEPPE",
+   "NOME": "DI VITTORIO GIUSEPPE",
    "ZONA": "C"
  },
  {
-   "VIA": "DIAZ ARMANDO",
+   "NOME": "DIAZ ARMANDO",
    "ZONA": "A"
  },
  {
-   "VIA": "DIVINA MISERICORDIA (piazzale)",
+   "NOME": "DIVINA MISERICORDIA (piazzale)",
    "ZONA": "B"
  },
  {
-   "VIA": "DOBERDÒ",
+   "NOME": "DOBERDÒ",
    "ZONA": "A"
  },
  {
-   "VIA": "DOLCI PIETRO",
+   "NOME": "DOLCI PIETRO",
    "ZONA": "B"
  },
  {
-   "VIA": "DOLOMITI",
+   "NOME": "DOLOMITI",
    "ZONA": "C"
  },
  {
-   "VIA": "DONATELLO",
+   "NOME": "DONATELLO",
    "ZONA": "A"
  },
  {
-   "VIA": "DONIZETTI GAETANO",
+   "NOME": "DONIZETTI GAETANO",
    "ZONA": "B"
  },
  {
-   "VIA": "DUE PALME",
+   "NOME": "DUE PALME",
    "ZONA": "A"
  },
  {
-   "VIA": "EDISON TOMMASO",
+   "NOME": "EDISON TOMMASO",
    "ZONA": "B"
  },
  {
-   "VIA": "EINAUDI LUIGI",
+   "NOME": "EINAUDI LUIGI",
    "ZONA": "B"
  },
  {
-   "VIA": "EINSTEIN ALBERT",
+   "NOME": "EINSTEIN ALBERT",
    "ZONA": "A"
  },
  {
-   "VIA": "ERBA",
+   "NOME": "ERBA",
    "ZONA": "A"
  },
  {
-   "VIA": "EUROPA",
+   "NOME": "EUROPA",
    "ZONA": "A"
  },
  {
-   "VIA": "FERMI ENRICO",
+   "NOME": "FERMI ENRICO",
    "ZONA": "A"
  },
  {
-   "VIA": "FERRARI ENZO",
+   "NOME": "FERRARI ENZO",
    "ZONA": "C"
  },
  {
-   "VIA": "FERRAVILLA EDOARDO",
+   "NOME": "FERRAVILLA EDOARDO",
    "ZONA": "C"
  },
  {
-   "VIA": "FILIPPI",
+   "NOME": "FILIPPI",
    "ZONA": "B"
  },
  {
-   "VIA": "FILIPPO DA DESIO",
+   "NOME": "FILIPPO DA DESIO",
    "ZONA": "A"
  },
  {
-   "VIA": "FILZI FABIO",
+   "NOME": "FILZI FABIO",
    "ZONA": "A"
  },
  {
-   "VIA": "FIRENZE",
+   "NOME": "FIRENZE",
    "ZONA": "A"
  },
  {
-   "VIA": "FIUME (da ang. Via Diaz ad ang. Via delle Vallette)",
+   "NOME": "FIUME (da ang. Via Diaz ad ang. Via delle Vallette)",
    "ZONA": "A"
  },
  {
-   "VIA": "FIUME (da ang. Via Diaz ad ang. Via Matteotti)",
+   "NOME": "FIUME (da ang. Via Diaz ad ang. Via Matteotti)",
    "ZONA": "B"
  },
  {
-   "VIA": "FOGAZZARO ANTONIO",
+   "NOME": "FOGAZZARO ANTONIO",
    "ZONA": "A"
  },
  {
-   "VIA": "FORLANINI CARLO",
+   "NOME": "FORLANINI CARLO",
    "ZONA": "B"
  },
  {
-   "VIA": "FORNO VECCHIO (vicolo)",
+   "NOME": "FORNO VECCHIO (vicolo)",
    "ZONA": "B"
  },
  {
-   "VIA": "FOSCOLO UGO",
+   "NOME": "FOSCOLO UGO",
    "ZONA": "B"
  },
  {
-   "VIA": "FREZZINI PADRE GIORGIO",
+   "NOME": "FREZZINI PADRE GIORGIO",
    "ZONA": "B"
  },
  {
-   "VIA": "GABELLINI ALBERTO",
+   "NOME": "GABELLINI ALBERTO",
    "ZONA": "A"
  },
  {
-   "VIA": "GALENO CLAUDIO",
+   "NOME": "GALENO CLAUDIO",
    "ZONA": "B"
  },
  {
-   "VIA": "GALILEI GALILEO",
+   "NOME": "GALILEI GALILEO",
    "ZONA": "B"
  },
  {
-   "VIA": "GALLI GUIDO",
+   "NOME": "GALLI GUIDO",
    "ZONA": "A"
  },
  {
-   "VIA": "GALVANI LUIGI",
+   "NOME": "GALVANI LUIGI",
    "ZONA": "B"
  },
  {
-   "VIA": "GARIBALDI GIUSEPPE",
+   "NOME": "GARIBALDI GIUSEPPE",
    "ZONA": "B"
  },
  {
-   "VIA": "GAVAZZI EGIDIO",
+   "NOME": "GAVAZZI EGIDIO",
    "ZONA": "A"
  },
  {
-   "VIA": "GENOVA",
+   "NOME": "GENOVA",
    "ZONA": "A"
  },
  {
-   "VIA": "GENTILE GIOVANNI",
+   "NOME": "GENTILE GIOVANNI",
    "ZONA": "C"
  },
  {
-   "VIA": "GHIACCIAIA (vicolo)",
+   "NOME": "GHIACCIAIA (vicolo)",
    "ZONA": "B"
  },
  {
-   "VIA": "GIOIA FLAVIO",
+   "NOME": "GIOIA FLAVIO",
    "ZONA": "B"
  },
  {
-   "VIA": "GIORDANO UMBERTO",
+   "NOME": "GIORDANO UMBERTO",
    "ZONA": "B"
  },
  {
-   "VIA": "GIOTTO (piazza)",
+   "NOME": "GIOTTO (piazza)",
    "ZONA": "A"
  },
  {
-   "VIA": "GIOVANNI PAOLO II (piazza)",
+   "NOME": "GIOVANNI PAOLO II (piazza)",
    "ZONA": "A"
  },
  {
-   "VIA": "GIOVANNI XXIII PAPA (piazza)",
+   "NOME": "GIOVANNI XXIII PAPA (piazza)",
    "ZONA": "A"
  },
  {
-   "VIA": "GIUSSANI DON LUIGI (piazza)",
+   "NOME": "GIUSSANI DON LUIGI (piazza)",
    "ZONA": "B"
  },
  {
-   "VIA": "GIUSTI GIUSEPPE",
+   "NOME": "GIUSTI GIUSEPPE",
    "ZONA": "B"
  },
  {
-   "VIA": "GNOCCHI DON CARLO",
+   "NOME": "GNOCCHI DON CARLO",
    "ZONA": "A"
  },
  {
-   "VIA": "GOITO",
+   "NOME": "GOITO",
    "ZONA": "C"
  },
  {
-   "VIA": "GOLDONI CARLO",
+   "NOME": "GOLDONI CARLO",
    "ZONA": "C"
  },
  {
-   "VIA": "GORIZIA",
+   "NOME": "GORIZIA",
    "ZONA": "A"
  },
  {
-   "VIA": "GRADISCA",
+   "NOME": "GRADISCA",
    "ZONA": "C"
  },
  {
-   "VIA": "GRAMSCI ANTONIO",
+   "NOME": "GRAMSCI ANTONIO",
    "ZONA": "A"
  },
  {
-   "VIA": "GRAN SASSO",
+   "NOME": "GRAN SASSO",
    "ZONA": "C"
  },
  {
-   "VIA": "GRANDI ACHILLE",
+   "NOME": "GRANDI ACHILLE",
    "ZONA": "B"
  },
  {
-   "VIA": "GRIGNA",
+   "NOME": "GRIGNA",
    "ZONA": "A"
  },
  {
-   "VIA": "GRUBICY VITTORE",
+   "NOME": "GRUBICY VITTORE",
    "ZONA": "A"
  },
  {
-   "VIA": "GUADO (del)",
+   "NOME": "GUADO (del)",
    "ZONA": "B"
  },
  {
-   "VIA": "GUARENTI DAVIDE",
+   "NOME": "GUARENTI DAVIDE",
    "ZONA": "B"
  },
  {
-   "VIA": "HERMADA",
+   "NOME": "HERMADA",
    "ZONA": "A"
  },
  {
-   "VIA": "ILDEFONSO",
+   "NOME": "ILDEFONSO",
    "ZONA": "C"
  },
  {
-   "VIA": "INDUSTRIA (viale dell’)",
+   "NOME": "INDUSTRIA (viale dell’)",
    "ZONA": "C"
  },
  {
-   "VIA": "ISONZO",
+   "NOME": "ISONZO",
    "ZONA": "A"
  },
  {
-   "VIA": "ITALIA (corso) (da ang. Via Diaz ad ang. Piazza Conciliazione)",
+   "NOME": "ITALIA (corso) (da ang. Via Diaz ad ang. Piazza Conciliazione)",
    "ZONA": "B"
  },
  {
-   "VIA": "ITALIA (corso) (da ang. Via Diaz ad ang. Via Milano)",
+   "NOME": "ITALIA (corso) (da ang. Via Diaz ad ang. Via Milano)",
    "ZONA": "A"
  },
  {
-   "VIA": "KOLBE PADRE MASSIMILIANO",
+   "NOME": "KOLBE PADRE MASSIMILIANO",
    "ZONA": "C"
  },
  {
-   "VIA": "KULISCIOFF ANNA",
+   "NOME": "KULISCIOFF ANNA",
    "ZONA": "C"
  },
  {
-   "VIA": "LAGHETTO",
+   "NOME": "LAGHETTO",
    "ZONA": "B"
  },
  {
-   "VIA": "LAMARMORA ALFONSO",
+   "NOME": "LAMARMORA ALFONSO",
    "ZONA": "A"
  },
  {
-   "VIA": "LAMPUGNANI GIOVANNI MARIA (da ang. Piazza Cavour fino al sottopasso)",
+   "NOME": "LAMPUGNANI GIOVANNI MARIA (da ang. Piazza Cavour fino al sottopasso)",
    "ZONA": "B"
  },
  {
-   "VIA": "LAMPUGNANI GIOVANNI MARIA (dal sottopasso ad ang. Via Bareggi)",
+   "NOME": "LAMPUGNANI GIOVANNI MARIA (dal sottopasso ad ang. Via Bareggi)",
    "ZONA": "A"
  },
  {
-   "VIA": "LAVORATORI AUTOBIANCHI",
+   "NOME": "LAVORATORI AUTOBIANCHI",
    "ZONA": "A"
  },
  {
-   "VIA": "LECCO",
+   "NOME": "LECCO",
    "ZONA": "A"
  },
  {
-   "VIA": "LEONCAVALLO RUGGERO",
+   "NOME": "LEONCAVALLO RUGGERO",
    "ZONA": "B"
  },
  {
-   "VIA": "LEOPARDI GIACOMO",
+   "NOME": "LEOPARDI GIACOMO",
    "ZONA": "B"
  },
  {
-   "VIA": "LIBERAZIONE (piazza)",
+   "NOME": "LIBERAZIONE (piazza)",
    "ZONA": "A"
  },
  {
-   "VIA": "LISSONI COMM. PIERINO",
+   "NOME": "LISSONI COMM. PIERINO",
    "ZONA": "A"
  },
  {
-   "VIA": "LOMBARDIA",
+   "NOME": "LOMBARDIA",
    "ZONA": "B"
  },
  {
-   "VIA": "LUCCHINI ACHILLE (largo)",
+   "NOME": "LUCCHINI ACHILLE (largo)",
    "ZONA": "A"
  },
  {
-   "VIA": "LUCINICO",
+   "NOME": "LUCINICO",
    "ZONA": "A"
  },
  {
-   "VIA": "MAESTRI DEL LAVORO",
+   "NOME": "MAESTRI DEL LAVORO",
    "ZONA": "B"
  },
  {
-   "VIA": "MAGENTA",
+   "NOME": "MAGENTA",
    "ZONA": "C"
  },
  {
-   "VIA": "MAJORANA ETTORE",
+   "NOME": "MAJORANA ETTORE",
    "ZONA": "C"
  },
  {
-   "VIA": "MAMELI GOFFREDO",
+   "NOME": "MAMELI GOFFREDO",
    "ZONA": "B"
  },
  {
-   "VIA": "MANTEGAZZA PAOLO",
+   "NOME": "MANTEGAZZA PAOLO",
    "ZONA": "A"
  },
  {
-   "VIA": "MANTEGNA ANDREA",
+   "NOME": "MANTEGNA ANDREA",
    "ZONA": "A"
  },
  {
-   "VIA": "MANTOVA",
+   "NOME": "MANTOVA",
    "ZONA": "C"
  },
  {
-   "VIA": "MANZONI ALESSANDRO",
+   "NOME": "MANZONI ALESSANDRO",
    "ZONA": "B"
  },
  {
-   "VIA": "MARCONI GUGLIELMO",
+   "NOME": "MARCONI GUGLIELMO",
    "ZONA": "B"
  },
  {
-   "VIA": "MARIANI (dei)",
+   "NOME": "MARIANI (dei)",
    "ZONA": "B"
  },
  {
-   "VIA": "MARSALA",
+   "NOME": "MARSALA",
    "ZONA": "C"
  },
  {
-   "VIA": "MARTIRI DELLE FOIBE",
+   "NOME": "MARTIRI DELLE FOIBE",
    "ZONA": "C"
  },
  {
-   "VIA": "MARTIRI DI CEFALONIA",
+   "NOME": "MARTIRI DI CEFALONIA",
    "ZONA": "B"
  },
  {
-   "VIA": "MARTIRI DI FOSSOLI (piazza)",
+   "NOME": "MARTIRI DI FOSSOLI (piazza)",
    "ZONA": "B"
  },
  {
-   "VIA": "MARX KARL",
+   "NOME": "MARX KARL",
    "ZONA": "C"
  },
  {
-   "VIA": "MARZABOTTO",
+   "NOME": "MARZABOTTO",
    "ZONA": "B"
  },
  {
-   "VIA": "MASCAGNI PIETRO",
+   "NOME": "MASCAGNI PIETRO",
    "ZONA": "B"
  },
  {
-   "VIA": "MATTEOTTI GIACOMO",
+   "NOME": "MATTEOTTI GIACOMO",
    "ZONA": "B"
  },
  {
-   "VIA": "MAZZINI GIUSEPPE",
+   "NOME": "MAZZINI GIUSEPPE",
    "ZONA": "A"
  },
  {
-   "VIA": "MAZZOLARI DON PRIMO",
+   "NOME": "MAZZOLARI DON PRIMO",
    "ZONA": "C"
  },
  {
-   "VIA": "MEDA FILIPPO",
+   "NOME": "MEDA FILIPPO",
    "ZONA": "A"
  },
  {
-   "VIA": "MENTANA",
+   "NOME": "MENTANA",
    "ZONA": "C"
  },
  {
-   "VIA": "MERCATO",
+   "NOME": "MERCATO",
    "ZONA": "B"
  },
  {
-   "VIA": "MESSINA",
+   "NOME": "MESSINA",
    "ZONA": "C"
  },
  {
-   "VIA": "MESTRE",
+   "NOME": "MESTRE",
    "ZONA": "C"
  },
  {
-   "VIA": "MICHELINI MARIO",
+   "NOME": "MICHELINI MARIO",
    "ZONA": "A"
  },
  {
-   "VIA": "MILANI DON LUIGI",
+   "NOME": "MILANI DON LUIGI",
    "ZONA": "C"
  },
  {
-   "VIA": "MILANI MARIO (parco)",
+   "NOME": "MILANI MARIO (parco)",
    "ZONA": "C"
  },
  {
-   "VIA": "MILANO (da ang. Via Gabellini al confine di Nova Milanese)",
+   "NOME": "MILANO (da ang. Via Gabellini al confine di Nova Milanese)",
    "ZONA": "C"
  },
  {
-   "VIA": "MILANO (da ang. Via Gabellini al confine di Seregno)",
+   "NOME": "MILANO (da ang. Via Gabellini al confine di Seregno)",
    "ZONA": "A"
  },
  {
-   "VIA": "MILITE IGNOTO",
+   "NOME": "MILITE IGNOTO",
    "ZONA": "A"
  },
  {
-   "VIA": "MINZONI DON GIOVANNI",
+   "NOME": "MINZONI DON GIOVANNI",
    "ZONA": "C"
  },
  {
-   "VIA": "MODIGLIANI AMEDEO",
+   "NOME": "MODIGLIANI AMEDEO",
    "ZONA": "A"
  },
  {
-   "VIA": "MOLINARA",
+   "NOME": "MOLINARA",
    "ZONA": "A"
  },
  {
-   "VIA": "MONSELICE",
+   "NOME": "MONSELICE",
    "ZONA": "C"
  },
  {
-   "VIA": "MONTALE EUGENIO",
+   "NOME": "MONTALE EUGENIO",
    "ZONA": "C"
  },
  {
-   "VIA": "MONTE BIANCO",
+   "NOME": "MONTE BIANCO",
    "ZONA": "C"
  },
  {
-   "VIA": "MONTE CIMONE",
+   "NOME": "MONTE CIMONE",
    "ZONA": "C"
  },
  {
-   "VIA": "MONTE GENEROSO",
+   "NOME": "MONTE GENEROSO",
    "ZONA": "C"
  },
  {
-   "VIA": "MONTE GRAPPA",
+   "NOME": "MONTE GRAPPA",
    "ZONA": "A"
  },
  {
-   "VIA": "MONTE PALANZONE",
+   "NOME": "MONTE PALANZONE",
    "ZONA": "C"
  },
  {
-   "VIA": "MONTE ROSA",
+   "NOME": "MONTE ROSA",
    "ZONA": "C"
  },
  {
-   "VIA": "MONTE SAN MICHELE",
+   "NOME": "MONTE SAN MICHELE",
    "ZONA": "C"
  },
  {
-   "VIA": "MONTELLO",
+   "NOME": "MONTELLO",
    "ZONA": "A"
  },
  {
-   "VIA": "MONTENERO",
+   "NOME": "MONTENERO",
    "ZONA": "B"
  },
  {
-   "VIA": "MONTESANTO",
+   "NOME": "MONTESANTO",
    "ZONA": "A"
  },
  {
-   "VIA": "MONTEVERDI CLAUDIO",
+   "NOME": "MONTEVERDI CLAUDIO",
    "ZONA": "B"
  },
  {
-   "VIA": "MONTI VINCENZO",
+   "NOME": "MONTI VINCENZO",
    "ZONA": "A"
  },
  {
-   "VIA": "MONVISO",
+   "NOME": "MONVISO",
    "ZONA": "C"
  },
  {
-   "VIA": "MULINELLO",
+   "NOME": "MULINELLO",
    "ZONA": "C"
  },
  {
-   "VIA": "MULINO ARESE",
+   "NOME": "MULINO ARESE",
    "ZONA": "C"
  },
  {
-   "VIA": "MUTTI DON ANGELO",
+   "NOME": "MUTTI DON ANGELO",
    "ZONA": "C"
  },
  {
-   "VIA": "NEGRI ADA",
+   "NOME": "NEGRI ADA",
    "ZONA": "C"
  },
  {
-   "VIA": "NENNI PIETRO (piazza)",
+   "NOME": "NENNI PIETRO (piazza)",
    "ZONA": "B"
  },
  {
-   "VIA": "NIZZA",
+   "NOME": "NIZZA",
    "ZONA": "C"
  },
  {
-   "VIA": "NOVARA",
+   "NOME": "NOVARA",
    "ZONA": "A"
  },
  {
-   "VIA": "NOVATI ENRICO",
+   "NOME": "NOVATI ENRICO",
    "ZONA": "B"
  },
  {
-   "VIA": "NOVE NOVEMBRE 1989",
+   "NOME": "NOVE NOVEMBRE 1989",
    "ZONA": "C"
  },
  {
-   "VIA": "NUOVA VALASSINA (strada) - SS 36",
+   "NOME": "NUOVA VALASSINA (strada) - SS 36",
    "ZONA": "A"
  },
  {
-   "VIA": "OBERDAN GUGLIELMO",
+   "NOME": "OBERDAN GUGLIELMO",
    "ZONA": "A"
  },
  {
-   "VIA": "OLIMPIADI",
+   "NOME": "OLIMPIADI",
    "ZONA": "A"
  },
  {
-   "VIA": "OLMETTO",
+   "NOME": "OLMETTO",
    "ZONA": "B"
  },
  {
-   "VIA": "ORTI (vicolo)",
+   "NOME": "ORTI (vicolo)",
    "ZONA": "A"
  },
  {
-   "VIA": "ORTIGARA",
+   "NOME": "ORTIGARA",
    "ZONA": "B"
  },
  {
-   "VIA": "OSLAVIA",
+   "NOME": "OSLAVIA",
    "ZONA": "B"
  },
  {
-   "VIA": "PADOVA",
+   "NOME": "PADOVA",
    "ZONA": "C"
  },
  {
-   "VIA": "PAGANINI NICOLÒ",
+   "NOME": "PAGANINI NICOLÒ",
    "ZONA": "B"
  },
  {
-   "VIA": "PALERMO",
+   "NOME": "PALERMO",
    "ZONA": "C"
  },
  {
-   "VIA": "PALESTRO",
+   "NOME": "PALESTRO",
    "ZONA": "C"
  },
  {
-   "VIA": "PALLAVICINI GIORGIO",
+   "NOME": "PALLAVICINI GIORGIO",
    "ZONA": "C"
  },
  {
-   "VIA": "PAOLO VI",
+   "NOME": "PAOLO VI",
    "ZONA": "C"
  },
  {
-   "VIA": "PARCO (piazzale del)",
+   "NOME": "PARCO (piazzale del)",
    "ZONA": "B"
  },
  {
-   "VIA": "PARINI GIUSEPPE",
+   "NOME": "PARINI GIUSEPPE",
    "ZONA": "C"
  },
  {
-   "VIA": "PARTIGIANI D’ITALIA",
+   "NOME": "PARTIGIANI D’ITALIA",
    "ZONA": "B"
  },
  {
-   "VIA": "PASCOLI GIOVANNI",
+   "NOME": "PASCOLI GIOVANNI",
    "ZONA": "A"
  },
  {
-   "VIA": "PASTEUR LUIGI",
+   "NOME": "PASTEUR LUIGI",
    "ZONA": "B"
  },
  {
-   "VIA": "PASTRENGO",
+   "NOME": "PASTRENGO",
    "ZONA": "C"
  },
  {
-   "VIA": "PASUBIO",
+   "NOME": "PASUBIO",
    "ZONA": "A"
  },
  {
-   "VIA": "PELLICO SILVIO",
+   "NOME": "PELLICO SILVIO",
    "ZONA": "A"
  },
  {
-   "VIA": "PESCHIERA",
+   "NOME": "PESCHIERA",
    "ZONA": "C"
  },
  {
-   "VIA": "PETRARCA FRANCESCO",
+   "NOME": "PETRARCA FRANCESCO",
    "ZONA": "B"
  },
  {
-   "VIA": "PIAVE",
+   "NOME": "PIAVE",
    "ZONA": "A"
  },
  {
-   "VIA": "PIERMARINI GIUSEPPE FRANCESCO",
+   "NOME": "PIERMARINI GIUSEPPE FRANCESCO",
    "ZONA": "B"
  },
  {
-   "VIA": "PIETRO DA DESIO",
+   "NOME": "PIETRO DA DESIO",
    "ZONA": "B"
  },
  {
-   "VIA": "PIO XI",
+   "NOME": "PIO XI",
    "ZONA": "B"
  },
  {
-   "VIA": "PIRANDELLO LUIGI",
+   "NOME": "PIRANDELLO LUIGI",
    "ZONA": "B"
  },
  {
-   "VIA": "PIROTTA DON LUIGI",
+   "NOME": "PIROTTA DON LUIGI",
    "ZONA": "A"
  },
  {
-   "VIA": "PISACANE CARLO",
+   "NOME": "PISACANE CARLO",
    "ZONA": "B"
  },
  {
-   "VIA": "PODGORA",
+   "NOME": "PODGORA",
    "ZONA": "A"
  },
  {
-   "VIA": "PONTIDA",
+   "NOME": "PONTIDA",
    "ZONA": "C"
  },
  {
-   "VIA": "PORTA CARLO",
+   "NOME": "PORTA CARLO",
    "ZONA": "B"
  },
  {
-   "VIA": "PORTICHETTO",
+   "NOME": "PORTICHETTO",
    "ZONA": "B"
  },
  {
-   "VIA": "POZZO ANTICO",
+   "NOME": "POZZO ANTICO",
    "ZONA": "B"
  },
  {
-   "VIA": "PRATI GIOVANNI",
+   "NOME": "PRATI GIOVANNI",
    "ZONA": "B"
  },
  {
-   "VIA": "PRIMAVERA",
+   "NOME": "PRIMAVERA",
    "ZONA": "C"
  },
  {
-   "VIA": "PRIMO MAGGIO",
+   "NOME": "PRIMO MAGGIO",
    "ZONA": "B"
  },
  {
-   "VIA": "PRIMULE",
+   "NOME": "PRIMULE",
    "ZONA": "A"
  },
  {
-   "VIA": "PUCCINI GIACOMO",
+   "NOME": "PUCCINI GIACOMO",
    "ZONA": "A"
  },
  {
-   "VIA": "PULORA (dei)",
+   "NOME": "PULORA (dei)",
    "ZONA": "A"
  },
  {
-   "VIA": "QUASIMODO SALVATORE",
+   "NOME": "QUASIMODO SALVATORE",
    "ZONA": "C"
  },
  {
-   "VIA": "QUATTRO NOVEMBRE",
+   "NOME": "QUATTRO NOVEMBRE",
    "ZONA": "B"
  },
  {
-   "VIA": "RAGAZZI DEL ’99",
+   "NOME": "RAGAZZI DEL ’99",
    "ZONA": "B"
  },
  {
-   "VIA": "RAMELLI SERGIO",
+   "NOME": "RAMELLI SERGIO",
    "ZONA": "C"
  },
  {
-   "VIA": "RAPALLO",
+   "NOME": "RAPALLO",
    "ZONA": "C"
  },
  {
-   "VIA": "RASTELLI (vicolo)",
+   "NOME": "RASTELLI (vicolo)",
    "ZONA": "B"
  },
  {
-   "VIA": "REDIPUGLIA",
+   "NOME": "REDIPUGLIA",
    "ZONA": "A"
  },
  {
-   "VIA": "RESEGONE",
+   "NOME": "RESEGONE",
    "ZONA": "A"
  },
  {
-   "VIA": "RIGHINI",
+   "NOME": "RIGHINI",
    "ZONA": "A"
  },
  {
-   "VIA": "RIMEMBRANZE (viale delle)",
+   "NOME": "RIMEMBRANZE (viale delle)",
    "ZONA": "A"
  },
  {
-   "VIA": "RISORGIMENTO",
+   "NOME": "RISORGIMENTO",
    "ZONA": "C"
  },
  {
-   "VIA": "ROGGIA TRAVERSI",
+   "NOME": "ROGGIA TRAVERSI",
    "ZONA": "B"
  },
  {
-   "VIA": "ROMA",
+   "NOME": "ROMA",
    "ZONA": "B"
  },
  {
-   "VIA": "ROMAGNA",
+   "NOME": "ROMAGNA",
    "ZONA": "C"
  },
  {
-   "VIA": "RONCHETTI ANSELMO (vicolo)",
+   "NOME": "RONCHETTI ANSELMO (vicolo)",
    "ZONA": "B"
  },
  {
-   "VIA": "ROSE (delle)",
+   "NOME": "ROSE (delle)",
    "ZONA": "C"
  },
  {
-   "VIA": "ROSSA GUIDO",
+   "NOME": "ROSSA GUIDO",
    "ZONA": "A"
  },
  {
-   "VIA": "ROSSELLI F.LLI",
+   "NOME": "ROSSELLI F.LLI",
    "ZONA": "C"
  },
  {
-   "VIA": "ROSSINI GIOACCHINO",
+   "NOME": "ROSSINI GIOACCHINO",
    "ZONA": "B"
  },
  {
-   "VIA": "ROVAGNATI ERMINIO",
+   "NOME": "ROVAGNATI ERMINIO",
    "ZONA": "C"
  },
  {
-   "VIA": "ROVANI GIUSEPPE",
+   "NOME": "ROVANI GIUSEPPE",
    "ZONA": "C"
  },
  {
-   "VIA": "ROVIGO",
+   "NOME": "ROVIGO",
    "ZONA": "C"
  },
  {
-   "VIA": "SABOTINO (viale) (da ang. Via Milano ad ang. Via Cattaneo)",
+   "NOME": "SABOTINO (viale) (da ang. Via Milano ad ang. Via Cattaneo)",
    "ZONA": "C"
  },
  {
-   "VIA": "SABOTINO (viale) (da ang. Via Milano ad ang. Via Garibaldi)",
+   "NOME": "SABOTINO (viale) (da ang. Via Milano ad ang. Via Garibaldi)",
    "ZONA": "B"
  },
  {
-   "VIA": "SAFFI AURELIO",
+   "NOME": "SAFFI AURELIO",
    "ZONA": "C"
  },
  {
-   "VIA": "SALGARI EMILIO",
+   "NOME": "SALGARI EMILIO",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN BERNARDO",
+   "NOME": "SAN BERNARDO",
    "ZONA": "C"
  },
  {
-   "VIA": "SAN CAMILLO (vicolo)",
+   "NOME": "SAN CAMILLO (vicolo)",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN CARLO (strada comunale)",
+   "NOME": "SAN CARLO (strada comunale)",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN CRISTOFORO",
+   "NOME": "SAN CRISTOFORO",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN FRANCESCO (vicolo)",
+   "NOME": "SAN FRANCESCO (vicolo)",
    "ZONA": "B"
  },
  {
-   "VIA": "SAN FRANCESCO D’ASSISI",
+   "NOME": "SAN FRANCESCO D’ASSISI",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN GENNARO",
+   "NOME": "SAN GENNARO",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN GIOVANNI BOSCO",
+   "NOME": "SAN GIOVANNI BOSCO",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN GIUSEPPE",
+   "NOME": "SAN GIUSEPPE",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN LORENZO",
+   "NOME": "SAN LORENZO",
    "ZONA": "A"
  },
  {
-   "VIA": "SAN MAMETE (vicolo)",
+   "NOME": "SAN MAMETE (vicolo)",
    "ZONA": "B"
  },
  {
-   "VIA": "SAN MARTINO",
+   "NOME": "SAN MARTINO",
    "ZONA": "C"
  },
  {
-   "VIA": "SAN PIETRO",
+   "NOME": "SAN PIETRO",
    "ZONA": "B"
  },
  {
-   "VIA": "SAN VINCENZO DE’ PAOLI",
+   "NOME": "SAN VINCENZO DE’ PAOLI",
    "ZONA": "C"
  },
  {
-   "VIA": "SAN VITTORE PRIMO PAPA",
+   "NOME": "SAN VITTORE PRIMO PAPA",
    "ZONA": "A"
  },
  {
-   "VIA": "SANT’ANNA",
+   "NOME": "SANT’ANNA",
    "ZONA": "A"
  },
  {
-   "VIA": "SANT’APOLLINARE IN CLASSE",
+   "NOME": "SANT’APOLLINARE IN CLASSE",
    "ZONA": "A"
  },
  {
-   "VIA": "SANTA CATERINA",
+   "NOME": "SANTA CATERINA",
    "ZONA": "A"
  },
  {
-   "VIA": "SANTA GIANNA BERETTA MOLLA",
+   "NOME": "SANTA GIANNA BERETTA MOLLA",
    "ZONA": "C"
  },
  {
-   "VIA": "SANTA LIBERATA",
+   "NOME": "SANTA LIBERATA",
    "ZONA": "B"
  },
  {
-   "VIA": "SANTA LUCIA",
+   "NOME": "SANTA LUCIA",
    "ZONA": "A"
  },
  {
-   "VIA": "SANTA MARIA",
+   "NOME": "SANTA MARIA",
    "ZONA": "B"
  },
  {
-   "VIA": "SANTA MARIA (piazza)",
+   "NOME": "SANTA MARIA (piazza)",
    "ZONA": "B"
  },
  {
-   "VIA": "SANTA PAOLA DI ROSA",
+   "NOME": "SANTA PAOLA DI ROSA",
    "ZONA": "A"
  },
  {
-   "VIA": "SANTI SIRO E MATERNO",
+   "NOME": "SANTI SIRO E MATERNO",
    "ZONA": "A"
  },
  {
-   "VIA": "SARDEGNA",
+   "NOME": "SARDEGNA",
    "ZONA": "A"
  },
  {
-   "VIA": "SAURO NAZARIO",
+   "NOME": "SAURO NAZARIO",
    "ZONA": "A"
  },
  {
-   "VIA": "SCHIPA TITO",
+   "NOME": "SCHIPA TITO",
    "ZONA": "B"
  },
  {
-   "VIA": "SCHUSTER CARDINAL ALFREDO",
+   "NOME": "SCHUSTER CARDINAL ALFREDO",
    "ZONA": "C"
  },
  {
-   "VIA": "SCIASCIA LEONARDO",
+   "NOME": "SCIASCIA LEONARDO",
    "ZONA": "C"
  },
  {
-   "VIA": "SCIESA AMATORE",
+   "NOME": "SCIESA AMATORE",
    "ZONA": "B"
  },
  {
-   "VIA": "SEDICI MARZO",
+   "NOME": "SEDICI MARZO",
    "ZONA": "C"
  },
  {
-   "VIA": "SEGANTINI GIOVANNI",
+   "NOME": "SEGANTINI GIOVANNI",
    "ZONA": "A"
  },
  {
-   "VIA": "SEGRE EMILIO",
+   "NOME": "SEGRE EMILIO",
    "ZONA": "C"
  },
  {
-   "VIA": "SEMPIONE",
+   "NOME": "SEMPIONE",
    "ZONA": "C"
  },
  {
-   "VIA": "SERAO MATILDE",
+   "NOME": "SERAO MATILDE",
    "ZONA": "C"
  },
  {
-   "VIA": "SEREGNO (per)",
+   "NOME": "SEREGNO (per)",
    "ZONA": "A"
  },
  {
-   "VIA": "SERENELLA",
+   "NOME": "SERENELLA",
    "ZONA": "C"
  },
  {
-   "VIA": "SERVITI (dei)",
+   "NOME": "SERVITI (dei)",
    "ZONA": "A"
  },
  {
-   "VIA": "SFORZA FRANCESCO",
+   "NOME": "SFORZA FRANCESCO",
    "ZONA": "B"
  },
  {
-   "VIA": "SICILIA",
+   "NOME": "SICILIA",
    "ZONA": "A"
  },
  {
-   "VIA": "SILONE IGNAZIO",
+   "NOME": "SILONE IGNAZIO",
    "ZONA": "C"
  },
  {
-   "VIA": "SIRTORI GIUSEPPE",
+   "NOME": "SIRTORI GIUSEPPE",
    "ZONA": "A"
  },
  {
-   "VIA": "SOLARO FELICE",
+   "NOME": "SOLARO FELICE",
    "ZONA": "C"
  },
  {
-   "VIA": "SOLFERINO",
+   "NOME": "SOLFERINO",
    "ZONA": "C"
  },
  {
-   "VIA": "SOLTINE (delle)",
+   "NOME": "SOLTINE (delle)",
    "ZONA": "A"
  },
  {
-   "VIA": "SOVICANA",
+   "NOME": "SOVICANA",
    "ZONA": "B"
  },
  {
-   "VIA": "SPINELLI AMBROGIO",
+   "NOME": "SPINELLI AMBROGIO",
    "ZONA": "B"
  },
  {
-   "VIA": "SPLUGA",
+   "NOME": "SPLUGA",
    "ZONA": "C"
  },
  {
-   "VIA": "STADIO",
+   "NOME": "STADIO",
    "ZONA": "C"
  },
  {
-   "VIA": "STAMPA DI SONCINO",
+   "NOME": "STAMPA DI SONCINO",
    "ZONA": "B"
  },
  {
-   "VIA": "STAZIONE",
+   "NOME": "STAZIONE",
    "ZONA": "B"
  },
  {
-   "VIA": "STELVIO",
+   "NOME": "STELVIO",
    "ZONA": "C"
  },
  {
-   "VIA": "STURZO DON LUIGI",
+   "NOME": "STURZO DON LUIGI",
    "ZONA": "C"
  },
  {
-   "VIA": "TAGLIABUE UMBERTO",
+   "NOME": "TAGLIABUE UMBERTO",
    "ZONA": "A"
  },
  {
-   "VIA": "TARGETTI RAIMONDO (piazza)",
+   "NOME": "TARGETTI RAIMONDO (piazza)",
    "ZONA": "C"
  },
  {
-   "VIA": "TARRA GIULIO",
+   "NOME": "TARRA GIULIO",
    "ZONA": "A"
  },
  {
-   "VIA": "TAZZOLI ENRICO",
+   "NOME": "TAZZOLI ENRICO",
    "ZONA": "A"
  },
  {
-   "VIA": "TICINO",
+   "NOME": "TICINO",
    "ZONA": "C"
  },
  {
-   "VIA": "TIGLI (dei)",
+   "NOME": "TIGLI (dei)",
    "ZONA": "B"
  },
  {
-   "VIA": "TINTORETTO",
+   "NOME": "TINTORETTO",
    "ZONA": "A"
  },
  {
-   "VIA": "TITTONI TOMMASO",
+   "NOME": "TITTONI TOMMASO",
    "ZONA": "A"
  },
  {
-   "VIA": "TOLSTOI LEONE",
+   "NOME": "TOLSTOI LEONE",
    "ZONA": "A"
  },
  {
-   "VIA": "TONALE",
+   "NOME": "TONALE",
    "ZONA": "C"
  },
  {
-   "VIA": "TORINO",
+   "NOME": "TORINO",
    "ZONA": "A"
  },
  {
-   "VIA": "TORRIANI NAPO",
+   "NOME": "TORRIANI NAPO",
    "ZONA": "B"
  },
  {
-   "VIA": "TORRICELLI EVANGELISTA",
+   "NOME": "TORRICELLI EVANGELISTA",
    "ZONA": "A"
  },
  {
-   "VIA": "TOTI ENRICO",
+   "NOME": "TOTI ENRICO",
    "ZONA": "C"
  },
  {
-   "VIA": "TRAVERSI GIOVANNI",
+   "NOME": "TRAVERSI GIOVANNI",
    "ZONA": "C"
  },
  {
-   "VIA": "TRE VENEZIE",
+   "NOME": "TRE VENEZIE",
    "ZONA": "C"
  },
  {
-   "VIA": "TRENTO",
+   "NOME": "TRENTO",
    "ZONA": "B"
  },
  {
-   "VIA": "TREVISO",
+   "NOME": "TREVISO",
    "ZONA": "C"
  },
  {
-   "VIA": "TREZZI POMPEO",
+   "NOME": "TREZZI POMPEO",
    "ZONA": "B"
  },
  {
-   "VIA": "TRIESTE",
+   "NOME": "TRIESTE",
    "ZONA": "B"
  },
  {
-   "VIA": "TRINCEA DELLE FRASCHE",
+   "NOME": "TRINCEA DELLE FRASCHE",
    "ZONA": "A"
  },
  {
-   "VIA": "TRIPOLI",
+   "NOME": "TRIPOLI",
    "ZONA": "B"
  },
  {
-   "VIA": "TURATI FILIPPO",
+   "NOME": "TURATI FILIPPO",
    "ZONA": "B"
  },
  {
-   "VIA": "UDINE",
+   "NOME": "UDINE",
    "ZONA": "C"
  },
  {
-   "VIA": "UNGARETTI GIUSEPPE",
+   "NOME": "UNGARETTI GIUSEPPE",
    "ZONA": "C"
  },
  {
-   "VIA": "VAJ ROMEO",
+   "NOME": "VAJ ROMEO",
    "ZONA": "B"
  },
  {
-   "VIA": "VALLETTE (delle)",
+   "NOME": "VALLETTE (delle)",
    "ZONA": "A"
  },
  {
-   "VIA": "VARESE",
+   "NOME": "VARESE",
    "ZONA": "A"
  },
  {
-   "VIA": "VENTI SETTEMBRE (da ang. Via Diaz ad ang. Via delle Vallette)",
+   "NOME": "VENTI SETTEMBRE (da ang. Via Diaz ad ang. Via delle Vallette)",
    "ZONA": "A"
  },
  {
-   "VIA": "VENTI SETTEMBRE (da ang. Via Diaz ad ang. Via Matteotti)",
+   "NOME": "VENTI SETTEMBRE (da ang. Via Diaz ad ang. Via Matteotti)",
    "ZONA": "B"
  },
  {
-   "VIA": "VENTICINQUE APRILE",
+   "NOME": "VENTICINQUE APRILE",
    "ZONA": "B"
  },
  {
-   "VIA": "VENTIQUATTRO MAGGIO",
+   "NOME": "VENTIQUATTRO MAGGIO",
    "ZONA": "B"
  },
  {
-   "VIA": "VERCELLI",
+   "NOME": "VERCELLI",
    "ZONA": "A"
  },
  {
-   "VIA": "VERCESI GALILEO",
+   "NOME": "VERCESI GALILEO",
    "ZONA": "B"
  },
  {
-   "VIA": "VERDI GIUSEPPE",
+   "NOME": "VERDI GIUSEPPE",
    "ZONA": "B"
  },
  {
-   "VIA": "VERGA GIOVANNI",
+   "NOME": "VERGA GIOVANNI",
    "ZONA": "C"
  },
  {
-   "VIA": "VERONA",
+   "NOME": "VERONA",
    "ZONA": "C"
  },
  {
-   "VIA": "VERRI PIETRO",
+   "NOME": "VERRI PIETRO",
    "ZONA": "B"
  },
  {
-   "VIA": "VICENZA",
+   "NOME": "VICENZA",
    "ZONA": "C"
  },
  {
-   "VIA": "VICINALE PER MUGGIO’",
+   "NOME": "VICINALE PER MUGGIO’",
    "ZONA": "B"
  },
  {
-   "VIA": "VICINALE PER VAREDO",
+   "NOME": "VICINALE PER VAREDO",
    "ZONA": "C"
  },
  {
-   "VIA": "VICO GIOVAMBATTISTA",
+   "NOME": "VICO GIOVAMBATTISTA",
    "ZONA": "B"
  },
  {
-   "VIA": "VILLA CANONICO",
+   "NOME": "VILLA CANONICO",
    "ZONA": "B"
  },
  {
-   "VIA": "VILLANI FILIPPO",
+   "NOME": "VILLANI FILIPPO",
    "ZONA": "A"
  },
  {
-   "VIA": "VILLORESI DON ANTONIO",
+   "NOME": "VILLORESI DON ANTONIO",
    "ZONA": "C"
  },
  {
-   "VIA": "VISCONTI OTTONE",
+   "NOME": "VISCONTI OTTONE",
    "ZONA": "A"
  },
  {
-   "VIA": "VITTORIO VENETO",
+   "NOME": "VITTORIO VENETO",
    "ZONA": "A"
  },
  {
-   "VIA": "VIVALDI ANTONIO",
+   "NOME": "VIVALDI ANTONIO",
    "ZONA": "C"
  },
  {
-   "VIA": "VOLONTARI DEL SANGUE (largo)",
+   "NOME": "VOLONTARI DEL SANGUE (largo)",
    "ZONA": "B"
  },
  {
-   "VIA": "VOLTA ALESSANDRO (da ang. Via Lombardia ad ang. Via Brennero)",
+   "NOME": "VOLTA ALESSANDRO (da ang. Via Lombardia ad ang. Via Brennero)",
    "ZONA": "A"
  },
  {
-   "VIA": "VOLTA ALESSANDRO (da ang. Via Lombardia ad ang. Via Lampugnani)",
+   "NOME": "VOLTA ALESSANDRO (da ang. Via Lombardia ad ang. Via Lampugnani)",
    "ZONA": "B"
  },
  {
-   "VIA": "ZANDONAI RICCARDO",
+   "NOME": "ZANDONAI RICCARDO",
    "ZONA": "A"
  },
  {
-   "VIA": "ZANELLA GIACOMO",
+   "NOME": "ZANELLA GIACOMO",
    "ZONA": "B"
  }
 ]
