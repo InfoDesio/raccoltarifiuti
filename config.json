@@ -7,7 +7,7 @@
       "DAY2": {
         "NAME": "GIOVEDI'"
       },
-      "COLOR": "00A1E3"
+      "COLOR": "#00A1E3"
     },
     "B": {
       "DAY1": {
@@ -16,7 +16,7 @@
       "DAY2": {
         "NAME": "VENERDI'"
       },
-      "COLOR": "ED028C"
+      "COLOR": "#ED028C"
     },
     "C": {
       "DAY1": {
@@ -25,7 +25,7 @@
       "DAY2": {
         "NAME": "SABATO"
       },
-      "COLOR": "A6CE39"
+      "COLOR": "#A6CE39"
     }
   },
   "RIFIUTI": {
