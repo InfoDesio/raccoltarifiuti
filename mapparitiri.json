@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Piattaforma Ecologica Desio",
+    "description": "BLU RFID, GIALLO, BIO (UMIDO)\nOrario di apertura:\nLunedì\nchiuso\nMartedì\n8.30-12.30 14.30-17.30\nMercoledì\n8.30-12.30 14.30-17.30\nGiovedì\n8.30-12.30 14.30-17.30\nVenerdì\n8.30-12.30 14.30-17.30\nSabato\n8.30-12.30 14.30-18.30",
+    "latitude": 45.6047139,
+    "longitude": 9.214949
+  },
+  {
+    "name": "Centro Sportivo via Agnesi",
+    "description": "BLU RFID, GIALLO, BIO (UMIDO)\nAperto 24 ore 7 giorni su 7",
+    "latitude": 45.6141565,
+    "longitude": 9.1966563
+  },
+  {
+    "name": "Comune di Desio - via Gramsci",
+    "description": "BLU RFID, GIALLO, BIO (UMIDO)\nAperto 24 ore 7 giorni su 7\npresso ex casa custode",
+    "latitude": 45.6197998,
+    "longitude": 9.2091434
+  },
+  {
+    "name": "Mercato via Carcano - Prati",
+    "description": "BLU RFID, GIALLO, BIO (UMIDO)\nAperto 24 ore 7 giorni su 7",
+    "latitude": 45.6144108,
+    "longitude": 9.211894
+  }
+]
