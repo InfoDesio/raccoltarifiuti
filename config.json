@@ -50,5 +50,157 @@
       "NO": "PILE, FARMACI, LAMPADE LED, TELEFONINI, FERRO, RIFIUTI ELETTRICI ED ELETTRONICI, LIQUIDI DI QUALSIASI TIPO, TUTTI I RIFIUTI CHE POSSONO ESSERE DIFFERENZIATI"
     }
   },
-  "NOTE": "Dopo le 21.00 del giorno prima della raccolta\nEntro le 6.00 del giorno di raccolta\nLa raccolta dei rifiuti non verrà effettuata il 25 dicembre"
+  "NOTE": "Dopo le 21.00 del giorno prima della raccolta\nEntro le 6.00 del giorno di raccolta\nLa raccolta dei rifiuti non verrà effettuata il 25 dicembre",
+  "MAPPA": {
+    "ID": "sacchiblu",
+    "Nome": "Distribuzione sacchi blu",
+    "URL": "https://raw.githubusercontent.com/InfoDesio/raccoltarifiuti/master/mapparitiri.json",
+    "LAT": "latitude",
+    "LON": "longitude",
+    "TITLE": "name",
+    "SNIPPET": "description"
+  },
+  "PIATTAFORMA": {
+    "Version": 1,
+    "ID": "938dbb11-64a3-4b30-bfaf-9501d7a42263",
+    "Name": "Piattaforma Ecologica",
+    "Alias": "piattaforma_ecologica",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Gestione Rifiuti",
+        "Alias": "rifiuti"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Piattaforma",
+        "Value": "Via Luigi Einaudi, 3, 20832 Desio MB",
+        "Latitude": "45.604419",
+        "Longitude": "9.213966",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Prenotare ritiro rifiuti ingombranti",
+        "Value": "800445964",
+        "Note": "Da lunedì a venerdì dalle 14.00 alle 16.30",
+        "Type": 0
+      },
+      {
+        "Title": "Piattaforma Ecologica",
+        "Value": " 0362 308877",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Apertura Utenze Domestiche",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 6,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      },
+      {
+        "Title": "Apertura Utenze Commerciali",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": null
+              },
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": null
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
 }
