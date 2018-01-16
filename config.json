@@ -50,7 +50,7 @@
       "NO": "PILE, FARMACI, LAMPADE LED, TELEFONINI, FERRO, RIFIUTI ELETTRICI ED ELETTRONICI, LIQUIDI DI QUALSIASI TIPO, TUTTI I RIFIUTI CHE POSSONO ESSERE DIFFERENZIATI"
     }
   },
-  "NOTE": "Dopo le 21.00 del giorno prima della raccolta\nEntro le 6.00 del giorno di raccolta\nLa raccolta dei rifiuti non verrà effettuata il 25 dicembre",
+  "NOTE": "La sera prima del giorno di raccolta ed entro le 6.00 del giorno di raccolta",
   "MAPPA": {
     "ID": "sacchiblu",
     "Nome": "Distribuzione sacchi blu",
