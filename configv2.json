@@ -1,0 +1,237 @@
+{
+  "ZONE": {
+    "A1": {
+      "DAY1": {
+        "NAME": "LUNEDI'"
+      },
+      "DAY2": {
+        "NAME": "GIOVEDI'"
+      },
+      "COLOR": "#FF5C4D"
+    },
+    "A2": {
+      "DAY1": {
+        "NAME": "LUNEDI'"
+      },
+      "DAY2": {
+        "NAME": "GIOVEDI'"
+      },
+      "COLOR": "#FFA852"
+    },
+    "B1": {
+      "DAY1": {
+        "NAME": "MARTEDI'"
+      },
+      "DAY2": {
+        "NAME": "VENERDI'"
+      },
+      "COLOR": "#88C947"
+    },
+    "B2": {
+      "DAY1": {
+        "NAME": "MARTEDI'"
+      },
+      "DAY2": {
+        "NAME": "VENERDI'"
+      },
+      "COLOR": "#43A450"
+    },
+    "C1": {
+      "DAY1": {
+        "NAME": "MERCOLEDI'"
+      },
+      "DAY2": {
+        "NAME": "SABATO"
+      },
+      "COLOR": "#63D6F7"
+    },
+    "C2": {
+      "DAY1": {
+        "NAME": "MERCOLEDI'"
+      },
+      "DAY2": {
+        "NAME": "SABATO"
+      },
+      "COLOR": "#329ED7"
+    }
+  },
+  "RIFIUTI": {
+    "CARTA": {
+      "SI": "GIORNALI, RIVISTE E CATALOGHI, CARTONI E CARTONCINI PIEGATI, CARTA ACCOPPIATA CHE SI STRAPPA, CARTONE ONDULATO, FOGLI E BUSTE, FASCETTE IN CARTONCINO, SACCHETTI DI CARTA PULITI",
+      "NO": "FAZZOLETTI DI CARTA, TOVAGLIOLI DI CARTA, CARTA DA CUCINA, CARTA SPORCA, SCONTRINI, PIATTI E BICCHIERI DI CARTA, CARTONI DELLA PIZZA SPORCHI"
+    },
+    "VETRO": {
+      "SI": "BOTTIGLIE IN VETRO, CONTENITORI IN VETRO, BARATTOLI IN VETRO, VASETTI IN VETRO, VETRO CAVO",
+      "NO": "CERAMICA, LAMPADINE, PIATTI E TAZZE ROTTI, PORCELLANA, SPECCHI, TAPPI, PIREX, LASTRE DI VETRO"
+    },
+    "PLASTICA": {
+      "SI": "CONTENITORI IN PLASTICA PER LIQUIDI, SACCHETTI, PELLICOLE DA IMBALLAGGIO, FLACONI, PIATTI E BICCHIERI MONOUSO, VASCHETTE PER ALIMENTI, LATTINE, BARATTOLI, FOGLI SOTTILI, TUBETTI, TETRA PAK PULITO",
+      "NO": "BENI DUREVOLI IN PLASTICA (esempio TAVOLI/SEDIE/SCOLAPASTA/CASALINGHI), BARATTOLI DI COLLE, GIOCATTOLI, TUBI IN PLASTICA, LATTE DI SOLVENTI, VERNICI E ACIDI, PRODOTTI TOSSICI E NOCIVI, TUBI"
+    },
+    "UMIDO": {
+      "SI": "SCARTI E AVANZI DA CUCINA, BUCCE DI FRUTTA E VERDURA, RESTI DI CARNE COMPRESE LE OSSA, FILTRI DI THE, CAMOMILLA E TISANE, LISCHE DI PESCE, GUSCI DI UOVA, FONDI DI CAFFE’, PANE, FIORI APPASSITI E FOGLIE",
+      "NO": "STRACCI, PANNOLINI USA E GETTA, LETTIERE NON BIODEGRADABILI, CEROTTI, GUSCI DI COZZE E VONGOLE, OLIO VEGETALE ESAUSTO"
+    },
+    "SECCO": {
+      "SI": "LETTIERE NON BIODEGRADABILI, PANNOLINI NON BIODEGRADABILI, COLLANT, TOVAGLIOLI E FAZZOLETTI SPORCHI, GUSCI DI MOLLUSCHI, ASSORBENTI, CEROTTI, CUSTODIE CD, GIOCATTOLI NON ELETTRONICI",
+      "NO": "PILE, FARMACI, LAMPADE LED, TELEFONINI, FERRO, RIFIUTI ELETTRICI ED ELETTRONICI, LIQUIDI DI QUALSIASI TIPO, TUTTI I RIFIUTI CHE POSSONO ESSERE DIFFERENZIATI"
+    }
+  },
+  "NOTE": "La sera prima del giorno di raccolta ed entro le 6.00 del giorno di raccolta",
+  "MAPPA": {
+    "ID": "sacchiblu",
+    "Nome": "Distribuzione sacchi blu",
+    "URL": "https://raw.githubusercontent.com/InfoDesio/raccoltarifiuti/master/mapparitiri.json",
+    "LAT": "latitude",
+    "LON": "longitude",
+    "TITLE": "name",
+    "SNIPPET": "description"
+  },
+  "PIATTAFORMA": {
+    "Version": 1,
+    "ID": "938dbb11-64a3-4b30-bfaf-9501d7a42263",
+    "Name": "Piattaforma Ecologica",
+    "Alias": "piattaforma_ecologica",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Gestione Rifiuti",
+        "Alias": "rifiuti"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Piattaforma",
+        "Value": "Via Luigi Einaudi, 3, 20832 Desio MB",
+        "Latitude": "45.604419",
+        "Longitude": "9.213966",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Prenotare ritiro rifiuti ingombranti",
+        "Value": "800445964",
+        "Note": "Da lunedì a venerdì dalle 14.00 alle 16.30",
+        "Type": 0
+      },
+      {
+        "Title": "Piattaforma Ecologica",
+        "Value": " 0362 308877",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Apertura Utenze Domestiche",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 6,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      },
+      {
+        "Title": "Apertura Utenze Commerciali",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": null
+              },
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": null
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  "LINK": {
+    "Title": "Dove Lo Butto ?",
+    "Link": "http://www.dovelobutto.org/gelsia/webapp/"
+  }
+}
