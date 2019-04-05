@@ -1,0 +1,1706 @@
+[
+  {
+    "NOME": "Adamello",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Adria",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Agnesi G.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Agrigento",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Alberto da Giussano",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Alfieri V.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Algeria",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Alighieri D.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Alpi delle",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Ambrosoli G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Amendola G.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Angelico B.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Arno  Ballerio G.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Arosio",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Artigiani degli",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Asiago",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Atleti Azzurri d'Italia",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Baden Powell",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Bainsizza",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Baracca F. (da Via Diaz a Via Cadorna)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Baracca F. (da Via Diaz a Via Trento)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Bassano del Grappa",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Bassi U.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Battisti C.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Belingeri G.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Bellini V.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Bengasi",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Berchet G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Bergognone A.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Bernina",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Bertasciola di sopra (della)",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Bezzecca",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Binzago per",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Bixio N.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Boccaccio G.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Boito A.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Bolivia",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Boltraffio G. A.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Borghetto",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Boschi dei",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Boschi per Cesano dei",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Bosio G.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Bovisio per",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Bozzi A.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Bramante da Urbino",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Brambilla G.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Brennero (da Via Due Palme a Via Corso Italia)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Brennero (da Via Due Palme a Via Tarra)",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Brescia (da Via Due Palme a Via G. Rossa)",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Brescia (da Via Milano a G. Rossa)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Briani L.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Brianza",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Brianza Viale",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Brodolini G.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Buonarroti M.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Buozzi",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Cacciatori dei",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Cadore",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Cadorna R.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Caduti di Nassirya",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Calatafimi",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Calvi P. F.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Calvino I.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Campobello di Licata",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Canaletto",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Canonico Villa (da Via Manzoni a Via Petrarca)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Canonico Villa (da Via Manzoni a Via Rossini)",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Canova A.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Cantù C.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Capuana L.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Caravaggio",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Carcano F.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Carcassola P.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Card. Schuster",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Carducci G.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Carendon",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Carso",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Cascina Bolagnos",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Case Nuove",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Cassinetta",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Cassino",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Castelfidardo",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Catania",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Cattaneo C.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Cavalieri di Vittorio Veneto",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Cave delle",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Cavour C. B.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Cechov A.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Cellini B.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Cervino",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Cesano Maderno per",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Cherubini F.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Chiesa D.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Colombo C.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Commercio del",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Como",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Compagni D.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Conciliazione",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Confalonieri F.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Croce B.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Custoza",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Da Vinci L.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "D'Acquisto S.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "D'Adda C.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Dal Verme J.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "D'Annunzio G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "De Amicis E.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "De Gasperi A.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "De Luca A.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "De Sanctis",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "De Sanctis (laterale Via Due Palme)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Deledda",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Desio",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Desio da F.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Desio da P.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Desio per",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Di Vittorio G.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Diaz A. (da Via Milano a Corso Italia)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Diaz A. (da Via Milano a Via Pallavicini)",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Divina Misericordia",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Doberdò",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Dolci P.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Dolomiti",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Don Bareggi G.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Don Bonzi M.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Don Coccé R.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Don Gnocchi C.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Don Mazzolari P.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Don Milani",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Don Minzoni G.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Don Mutti A.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Don Pirotta L.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Don Sturzo L.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Donatello",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Donizetti G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Due Palme",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Edison T.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Einaudi L.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Einstein A.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Erba",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Europa",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Fermi E.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Ferrari E.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Ferravilla E.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Filzi F.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Firenze",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Fiume (da Via Diaz a Via Matteotti)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Fiume (da Via Diaz a Via Vallette)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Fogazzaro A.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Forlanini C. (da Via Piermarini a Via del Guado)",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Forlanini C. (da Via Tagliabue a Via Piermarini)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Forno Vecchio",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Foscolo U.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Fratelli Bandiera",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Fratelli Cairoli",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Fratelli Cervi",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Fratelli Mameli",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Fratelli Rosselli",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Gabellini A.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Galeno C. (da Via Carcano a Via Manzoni)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Galeno C. (da Via Manzoni a Via Ortigara)",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Galilei G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Galli G.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Galvani L.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Garibaldi G. (da Via Manzoni a Via Matteotti)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Garibaldi G. (da Via Manzoni a Via Milano)",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Gavazzi E.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Generale Cantore",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Generale Dalla Chiesa",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Genova",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Gentile",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Ghiacciaia",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Gioia F.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Giordano U.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Giotto",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Giovanni Paolo II",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Giovanni XXIII",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Giusti G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Goito",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Goldoni C.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Gorizia",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Gramsci A.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Grandi A.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Grigna",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Grubicy V.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Guado del",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Guarenti D.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Hermada",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "I Maggio",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Industria dell'",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Isonzo",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Italia (da Via Diaz a Via Matteotti)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Italia (da Via Diaz a Via Milano)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "IV Novembre",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "IX Novembre",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Kuliscioff A.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Laghetto",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Lamarmora A.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Lampugnani G. M. (da Via Cavour a Via Edison)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Lampugnani G. M. (da Via Sicilia a Via Bareggi)",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Lavoratori Autobianchi",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Lecco",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Leoncavallo R.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Leopardi G.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Liberazione",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Lombardia",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Lucinico",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Maestri del Lavoro",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Magenta",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Majorana E.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Mantegazza P.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Mantegna A.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Mantova",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Manzoni A.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Marconi G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Mariani dei",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Marsala",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Martiri delle Foibe",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Martiri di Cefalonia",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Martiri di Fossoli",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Marx K.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Marzabotto",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Mascagni P.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Matteotti G.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Mazzini G.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Meda F.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Mentana",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Mercato",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Messina",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Mestre",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Michelini M.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Milano (da Via delle Rose a Via Rovagnati)",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Milano (da Via per Cesano a Viale Europa)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Milano (da Via Rovagnati a Via Per Cesano)",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Milite Ignoto",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Modigliani A.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Molinara  Monti V.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Mons. Bandera",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Monselice",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Monsignor Camnasio G.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Monsignor Castelli L.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Monsignor Cattaneo C.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Montale E.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Monte Bianco",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Monte Cimone",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Monte Generoso",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Monte Grappa",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Monte Rosa",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Monte San Michele",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Montello",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Montenero",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Monteverdi C.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Monviso",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Mulinello",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Mulino Arese",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Negri A.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Nenni P.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Nizza",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Novara",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Novati E.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Nuova Valassina",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Oberdan G.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Olimpiadi",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Olmetto",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Orti  Pascoli G.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Ortigara",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Oslavia",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Padova",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Padre Caspani E.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Padre Frezzini",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Padre Kolbe M.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Paganini N.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Palermo",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Palestro",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Pallavicini G.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Paolo VI",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Parini G.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Partigiani d'Italia",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Pasteur L.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Pastrengo",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Pasubio",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Pellico S.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Peschiera",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Petrarca F.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Piave",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Piermarini F.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Pio XI",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Pirandello L.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Pisacane C.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Podgora",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Pontida",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Porta C.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Portichetto",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Pozzo Antico (da Via Montenero a Via Rossini)",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Pozzo Antico (da Via Santa Maria a Via Montenero)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Prati (da Via Martiri di Fossoli a Via Montenero)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Prati(da Via Montenero a Via Rossini)",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Primavera",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Primule",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Puccini G.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Pulora dei",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Quasimodo S.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Ragazzi del '99",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Ramelli S.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Rapallo",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Rastelli",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Redipuglia",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Resegone",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Righini",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Rimembranze delle",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Risorgimento",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Roma (da Via Lampugnani a Via Piermarini)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Roma (da Via Piermarini a Via Rossini)",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Romagna",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Ronchetti A.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Rose delle",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Rossa G.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Rossini G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Rovagnati E.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Rovani G.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Rovigo",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Sabotino (da Via Milano a Via Garibaldi)",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Sabotino (da Via Milano a Via Santi)",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Salgari E.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "San Bernardo",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "San Bosco G.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "San Camillo",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "San Carlo",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "San Cristoforo",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "San Francesco",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "San Francesco D'Assisi",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "San Gennaro",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "San Giuseppe",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "San Lorenzo",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "San Mamete",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "San Martino",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "San Pietro",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "San Vincenzo de' Paoli",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "San Vittore I Papa",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Santa Caterina",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Santa Liberata",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Santa Lucia",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Santa Maria",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Santa Molla G. B.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Santa Paola di Rosa",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Sant'Anna",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Sant'Apollinare",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Santi",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Santi Siro e Materno",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Sauro N.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Schipa T.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Sciesa A.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Segantini G.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Segre",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Sempione",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Serao M.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Seregno per",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Serenella",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Serviti dei",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Sforza F.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Sicilia",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Silone I.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Sirtori G.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Solaro F.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Solferino",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Sovicana",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Spinelli A.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Spluga",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Stadio",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Stampa",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Stelvio",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Tagliabue U. (da Via XXV Aprile al sottopasso)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Tagliabue U. (dal sottopasso al confine di Lissone)",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Targetti R.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Tarra G.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Tazzoli E.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Ticino",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Tigli dei",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Tintoretto",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Tittoni T.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Tolstoj",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Tonale",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Torino",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Torriani N.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Torricelli E.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Toti E.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Traversi",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Traversi Roggia",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Tre Venezie",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Trento",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Treviso",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Trezzi P.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Trieste",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Trincea delle Frasche",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Tripoli",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Turati F.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Udine",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Ungaretti G.",
+    "ZONA": "C1"
+  },
+  {
+    "NOME": "Vaj R.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Vallette delle",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Varese",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Vercelli",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Vercesi G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Verdi G.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Verga G.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Verona",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Verri P.",
+    "ZONA": "B2"
+  },
+  {
+    "NOME": "Vicenza",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Vico G.B.",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Villani F.",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Villoresi A.",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Visconti O. (da Via Due Palme a Corso Italia)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Visconti O. (da Via Due Palme a Via Tarra)",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Vittorio Veneto (da Via Due Palme a Corso Italia)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "Vittorio Veneto (da Via Due Palme a Via Tarra)",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Vivaldi",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "Volontari del Sangue",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Volta A. (da Lombardia a Brennero)",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Volta A. (da Lombardia a Lampugnani)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "XVI Marzo",
+    "ZONA": "C2"
+  },
+  {
+    "NOME": "XX Settembre (da Via Diaz a Via Matteotti)",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "XX Settembre (da Via Diaz a Via Vallette)",
+    "ZONA": "A2"
+  },
+  {
+    "NOME": "XXIV Maggio",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "XXV Aprile",
+    "ZONA": "B1"
+  },
+  {
+    "NOME": "Zandonai R.",
+    "ZONA": "A1"
+  },
+  {
+    "NOME": "Zanella G.",
+    "ZONA": "B1"
+  }
+]
