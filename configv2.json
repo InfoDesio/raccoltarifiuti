@@ -2,55 +2,127 @@
   "ZONE": {
     "A1": {
       "DAY1": {
-        "NAME": "LUNEDI'"
+        "NAME": "LUNEDI'",
+        "TIPO": [
+          "UMIDO",
+          "SECCO",
+          "PLASTICA",
+          "ARANCIONE"
+        ]
       },
       "DAY2": {
-        "NAME": "GIOVEDI'"
+        "NAME": "GIOVEDI'",
+        "TIPO": [
+          "UMIDO",
+          "CARTA",
+          "VETRO",
+          "ARANCIONE"
+        ]
       },
       "COLOR": "#FF5C4D"
     },
     "A2": {
       "DAY1": {
-        "NAME": "LUNEDI'"
+        "NAME": "LUNEDI'",
+        "TIPO": [
+          "UMIDO",
+          "CARTA",
+          "VETRO",
+          "ARANCIONE"
+        ]
       },
       "DAY2": {
-        "NAME": "GIOVEDI'"
+        "NAME": "GIOVEDI'",
+        "TIPO": [
+          "UMIDO",
+          "SECCO",
+          "PLASTICA",
+          "ARANCIONE"
+        ]
       },
       "COLOR": "#FFA852"
     },
     "B1": {
       "DAY1": {
-        "NAME": "MARTEDI'"
+        "NAME": "MARTEDI'",
+        "TIPO": [
+          "UMIDO",
+          "SECCO",
+          "PLASTICA",
+          "ARANCIONE"
+        ]
       },
       "DAY2": {
-        "NAME": "VENERDI'"
+        "NAME": "VENERDI'",
+        "TIPO": [
+          "UMIDO",
+          "CARTA",
+          "VETRO",
+          "ARANCIONE"
+        ]
       },
       "COLOR": "#88C947"
     },
     "B2": {
       "DAY1": {
-        "NAME": "MARTEDI'"
+        "NAME": "MARTEDI'",
+        "TIPO": [
+          "UMIDO",
+          "CARTA",
+          "VETRO",
+          "ARANCIONE"
+        ]
       },
       "DAY2": {
-        "NAME": "VENERDI'"
+        "NAME": "VENERDI'",
+        "TIPO": [
+          "UMIDO",
+          "SECCO",
+          "PLASTICA",
+          "ARANCIONE"
+        ]
       },
       "COLOR": "#43A450"
     },
     "C1": {
       "DAY1": {
-        "NAME": "MERCOLEDI'"
+        "NAME": "MERCOLEDI'",
+        "TIPO": [
+          "UMIDO",
+          "SECCO",
+          "PLASTICA",
+          "ARANCIONE"
+        ]
       },
       "DAY2": {
-        "NAME": "SABATO"
+        "NAME": "SABATO",
+        "TIPO": [
+          "UMIDO",
+          "CARTA",
+          "VETRO",
+          "ARANCIONE"
+        ]
       },
       "COLOR": "#63D6F7"
     },
     "C2": {
       "DAY1": {
-        "NAME": "MERCOLEDI'"
+        "NAME": "MERCOLEDI'",
+        "TIPO": [
+          "UMIDO",
+          "CARTA",
+          "VETRO",
+          "ARANCIONE"
+        ]
       },
       "DAY2": {
-        "NAME": "SABATO"
+        "NAME": "SABATO",
+        "TIPO": [
+          "UMIDO",
+          "SECCO",
+          "PLASTICA",
+          "ARANCIONE"
+        ]
       },
       "COLOR": "#329ED7"
     }
@@ -75,6 +147,10 @@
     "SECCO": {
       "SI": "LETTIERE NON BIODEGRADABILI, PANNOLINI NON BIODEGRADABILI, COLLANT, TOVAGLIOLI E FAZZOLETTI SPORCHI, GUSCI DI MOLLUSCHI, ASSORBENTI, CEROTTI, CUSTODIE CD, GIOCATTOLI NON ELETTRONICI",
       "NO": "PILE, FARMACI, LAMPADE LED, TELEFONINI, FERRO, RIFIUTI ELETTRICI ED ELETTRONICI, LIQUIDI DI QUALSIASI TIPO, TUTTI I RIFIUTI CHE POSSONO ESSERE DIFFERENZIATI"
+    },
+    "ARANCIONE": {
+      "SI": "PANNOLINI, PANNOLONI, TESSILI SANITARI",
+      "NO": "TUTTO IL RESTO ;)"
     }
   },
   "NOTE": "La sera prima del giorno di raccolta ed entro le 6.00 del giorno di raccolta",
